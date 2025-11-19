@@ -1,0 +1,1313 @@
+{
+  "nav": {
+    "home": "Home",
+    "forCompanies": "For Companies",
+    "solutions": "Solutions",
+    "whyUs": "Why Us",
+    "solutionsDropdown": {
+      "immigrationLaws": "Navigating Immigration Laws",
+      "seasonalWorkers": "Seasonal Workers",
+      "constructionWorkers": "Construction Workers",
+      "medicalWorkers": "Medical Workers"
+    },
+    "behindthebrand": "Behind the Brand",
+    "career": "Careers",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "title": "We connect the right workers with the right employers.",
+    "subtitle": "Find the perfect match for your business needs or career goals with our comprehensive platform.",
+    "buttonText1": "Seeking Skilled Workers",
+    "buttonText2": "Searching for Employment"
+  },
+  "cardhome1": {
+    "title": "Recruitment",
+    "description": "We provide full-cycle recruiting & HR services that are tailored to the business needs."
+  },
+  "cardhome2": {
+    "title": "HR-consulting",
+    "description": "We help companies create a well-known brand that will stand out on the market and boost hiring metrics."
+  },
+  "cardhome3": {
+    "title": "Outstaffing",
+    "description": "We provide outstaffing for fast-growing companies, help to grow companies' teams and increase their productivity."
+  },
+
+  "homepartner": {
+    "partner": "Your partner in talent recruitment",
+    "partnerdesc": "We specialize in recruiting and selecting foreign workers from various regions, including Asia, the Gulf, North and South America, and Africa. Operating from our central offices in Dubai, we place workers in countries such as the UK, Croatia, Malta, Bulgaria, Poland, Romania, and other European nations.",
+    "state1": {
+      "no1": "1",
+      "statetitle": "3000 EMPLOYED WORKERS",
+      "statedec": "In the past two years, we have brought over 5000 third-country nationals to  European Countries. With over 10% of the total market for foreign workers, we are a leading agency in mediating the employment of foreign workers."
+    },
+    "state2": {
+      "no2": "2",
+      "statetitle": "450+ SATISFIED CLIENTS",
+      "statedec": "We take pride in having built cooperation with numerous large enterprises as well as small and medium-sized businesses that have had the greatest need for labor during the current economic expansion."
+    },
+    "state3": {
+      "no3": "3",
+      "statetitle": "15 HUMAN RESOURCES EXPERTS",
+      "statedec": "Our team of 15 experts is constantly available to employers, providing maximum quality service for each area of human resources."
+    }
+  },
+  "agencysection": {
+    "title": "Modern Methods to Restore the Agency Business&apos;s Former Glory",
+    "accordionItems1": {
+      "accordiontitle": "Find the best candidates.",
+      "contentdec": "Recruitment4u specializes in helping companies break free from unnecessary geographical limitations—so you can hire the best person in the world, not just the best person nearby."
+    },
+    "accordionItems2": {
+      "accordiontitle": "Automate business processes.",
+      "contentdec": "We focus on automating business operations to simplify all processes: from collecting candidate applications, selection, interviews, verification of workers' documentation to contract creation and issuing permits. All our processes are fully automated."
+    },
+    "accordionItems3": {
+      "accordiontitle": "Innovate selection processes.",
+      "contentdec": "When hiring foreign workers, it is important to consider the efforts of both parties involved: both the worker and the employer. To ensure that this effort is not in vain, we have developed a multi-phase selection process through which candidates must pass to meet the highest criteria for work in such countries as the UK, Croatia, Malta, Bulgaria, Poland, Romania, and other European Countries"
+    }
+  },
+
+  "findsolutions": {
+    "title": "Find",
+    "description": "We have developed several business models that are fully tailored to your needs.",
+    "solution1": {
+      "solutiontitle": "Leasing of Employees",
+      "solutiondesc": "We provide you with a full-time workforce that is managed by us. This way, you can focus on your business goals without worrying about administrative details and legal complexities."
+    },
+    "solution2": {
+      "solutiontitle": "Execution of Works",
+      "solutiondesc": "A near-perfect solution for emergencies where our best employees come to work for you in just a few days. Our rapid deployment system ensures minimal disruption to your operations while maintaining quality standards."
+    },
+    "solution3": {
+      "solutiontitle": "Mediation in Employment",
+      "solutiondesc": "You are the employer, and we take care of quality employee selection. Our comprehensive screening process ensures you get the right talent while we handle all the complexities of recruitment and compliance."
+    },
+    "solution4": {
+      "solutiontitle": "Temporary Employment",
+      "solutiondesc": "We find, select, and employ workers and assign them to your business entity. Our temporary staffing solutions provide flexibility while maintaining high standards of quality and reliability in workforce management."
+    },
+    "solution5": {
+      "solutiontitle": "From Leasing to Mediation",
+      "solutiondesc": "Avoid risk and save valuable time by having the agency become your employer during the probation period. This way you can focus on your business goals without worrying about administrative details and legal complexities."
+    }
+  },
+
+  "brand": {
+    "title": "Trusted Partnerships Power Our Progress",
+    "subtitle": " Got Questions?",
+    "brandbutton": "Let’s Solve."
+  },
+  "recruitmentcenter": {
+    "title": "Recruitment Centers",
+    "description": "The choice of country depends on the required occupation of workers, working conditions as well as employer preferences.",
+    "center1": {
+      "country": "India",
+      "centerdesc": "India is a country with a rich culture and history known among other things as a global leader in metal production. Indian workers are renowned for their excellence in this field as well as in information technology and engineering."
+    },
+    "center2": {
+      "country": "Philippines",
+      "centerdesc": "The Philippines is an island nation in Southeast Asia known for its beautiful beaches and exotic tourism. Filipino workers are known for their dedication and professionalism in the tourism industry as well as in healthcare."
+    },
+    "center3": {
+      "country": "Nepal",
+      "centerdesc": "Nepal is known for its high mountains and beautiful landscapes. Since Nepali workers are accustomed to demanding living conditions in high altitudes, they are ideal for jobs in agriculture, manufacturing or warehousing."
+    },
+    "center4": {
+      "country": "UAE and Qatar",
+      "centerdesc": "The UAE and Qatar are developed countries where over 90% of the working population consists of foreign workers, most often from Nepal, India, Bangladesh or the Philippines. They serve as a good filter for qualified labor that gains experience, knowledge, and skills from cutting-edge technologies and practices."
+    }
+  },
+
+  "process": {
+    "title": "The Process of Hiring Foreign Workers",
+    "subtitle": " A comprehensive approach to international recruitment",
+    "processsteps1": {
+      "title": "Project Assessment",
+      "duration": "A few days",
+      "processdesc": "Through joint communication, we precisely determine your needs and assess the project. After an assessment is completed, we begin cooperation through order fulfillment and contract signing."
+    },
+    "processsteps2": {
+      "title": "Recruitment and Selection",
+      "duration": "up to 30 days",
+      "processdesc": "Upon signing the contract, we initiate recruitment and selection procedures. This process includes collecting candidate applications, conducting selection procedures, interviewing candidates, verifying worker documentation authenticity, and conducting testing in the worker's home country."
+    },
+    "processsteps3": {
+      "title": "Issuing Permits",
+      "duration": "up to 90 days",
+      "processdesc": "Once we have precisely defined your needs and identified suitable workers, we can begin the process of issuing permits for them to work in the UK, Croatia, ,Malta, Bulgaria, Poland, Romania, and other European countries. This process is carried out in cooperation with relevant authorities, including the Croatian Employment Service (HZZ), the ,UK Home Office, Jobsplus Malta, the ,Bulgarian Employment Agency, the Polish Office for Foreigners, the Romanian General Inspectorate for Immigration, as well as the ,Ministry of Interior, Ministry of Foreign Affairs, and other institutions in the worker’s home country."
+    },
+    "processsteps4": {
+      "title": "Worker arrival",
+      "duration": "within 15 days",
+      "processdesc": "The final step includes flight arrangements for workers, accommodation preparation, residence registration, issuance of residence cards, opening bank accounts, as well as additional activities such as medical examinations and occupational safety training."
+    }
+  },
+  "contactform": {
+    "title": "Consult. Plan. Win.",
+    "companyname": "Company Name",
+    "name&surname": "Name & SurName",
+    "email": "Email",
+    "phone": "Country Code with Phone Number",
+    "country": "Country Name",
+    "message": "Your Message",
+    "agre": "I would like to be contacted by a Recruitment 4U representative from my country",
+    "send": "Send"
+  },
+
+  "forcompanies": {
+    "title": "We invest capital to gain in-depth knowledge of every industry.",
+    "desc": " With experience in recruitment across numerous industries, we find workers for all the professions you need.",
+    "industrie1": {
+      "title": "METAL INDUSTRY AND TECHNICAL FIELDS",
+      "content1": "Welders, Metalworkers, Pipefitters, Metal casters, CNC operators and programmers, Mechanics and auto painters, Sandblasting workers, Auto electricians, Electricians and electrical installers, Industrial electricians, Carpenters, Heating and air conditioning installers, Drivers of almost all categories, Delivery workers, Developers, And many other professions."
+    },
+    "industrie2": {
+      "title": "CONSTRUCTION",
+      "content2": "Construction machinery managers, Crane operators, Reinforcers, Farmworkers, Bricklayers, Roofers, Concrete workers, Tilers, Painters, Insulators and waterproofers, Facade workers."
+    },
+    "industrie3": {
+      "title": "HOSPITALITY AND RETAIL",
+      "content3": "Chefs (including national cuisine chefs), Baristas and waiters, Housekeepers, Cleaners, Receptionists, Pastry chefs, Bakers, Caregivers, Support Staff, Retail workers, Warehouse workers, Forklift operators."
+    },
+    "industrie4": {
+      "title": "MANUFACTURING AND WOOD INDUSTRY",
+      "content4": "Workers in meat processing and food production industries, Textile industry workers (sewers), Sawmill workers, Furniture and ceramics production workers, And many others."
+    },
+    "ourservice": {
+      "title": "Our Services",
+      "desc": " We approach each sector differently, developing systems for recruiting, selecting, and placing foreign workers that specifically meet the needs of each branch of economic activity."
+    },
+    "service1": {
+      "title": "IT TALENT ACQUISITION",
+      "desc": "The domestic developer market cannot cover the growth of the IT sector. Therefore, many employers choose to hire foreign workers. Contact us to learn more about our services, including: Remote services,Rent a coder, Employment mediation"
+    },
+    "service2": {
+      "title": "WELDING AND METALWORKING",
+      "desc": "Recruitment4u is the only agency in the UK that independently conducts testing in home countries and shares results with interested partners. As an agency or contractor, we cover all welding processes and worker qualifications."
+    },
+    "service3": {
+      "title": "Recruitment4u AGRO",
+      "desc": "Recruitment4u Agro je projekt usmjeren na zadovoljavanje potreba primarnog sektora gospodarstva. Regrituiramo radnike za domaće gospodarstvenike u poljoprivredi, stočarstvu i prehrambenoj industriji."
+    },
+    "service4": {
+      "title": "HOSPITALITY PROGRAM",
+      "desc": "The Hospitality Program is a specially organized system for recruiting and selecting staff for work in service industries and tourism. We connect hoteliers with workers in cooperation with numerous hospitality associations."
+    },
+    "service5": {
+      "title": "Recruitment4u CONSTRUCT",
+      "desc": "Construction is a sector with the highest demand for foreign workers but also presents the greatest challenge in finding adequate labor. Recruitment4u Construct is a project aimed at finding a qualified workforce for this sector."
+    },
+    "service6": {
+      "title": "CUSTOM RECRUITMENT",
+      "desc": "Do you have a specific request? Contact us, and one of our sales representatives will take your order and begin the recruitment process for the requested workers."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "faq1": {
+        "qus": "From which countries do you hire workers?",
+        "ans": "Following models used in developed Middle Eastern countries, Recruitment4u specializes in importing workers from Nepal, the Philippines, and India."
+      },
+      "faq2": {
+        "qus": "How long does the process of hiring foreign workers take?",
+        "ans": "The process takes between 90 and 120 days, depending on the requested job position, choice of recruitment center, and location where the work permit is issued."
+      },
+      "faq3": {
+        "qus": "Do I need to arrange accommodation for foreign workers?",
+        "ans": "Foreign workers need accommodation upon arrival to work in their destinations. This can also be arranged by the agency in agreement with the employer."
+      },
+      "faq4": {
+        "qus": "What distinguishes hiring foreign workers?",
+        "ans": "Foreign workers require a residence permit and work visa to enter the UK, Croatia, Malta, Bulgaria, Poland, Romania, or any other European country. Additionally, the process of integrating them into their workplace is more extensive and includes arranging accommodation, registering residence, issuing residence cards (biometric residence permits), and opening bank accounts"
+      },
+      "faq5": {
+        "qus": "How does a foreign worker register for pension and health insurance?",
+        "ans": "Upon registering their residence, the Home Office issues a National Insurance Number based on which they can register for pension and health insurance. Before registration, employers must obtain a Work Permit for foreign workers."
+      },
+      "faq6": {
+        "qus": "What are the conditions for hiring foreign workers?",
+        "ans": "Several conditions must be met: The company must have been operating for more than six months, must have employed at least one UK citizen over that period, and must not have tax or contribution debts. Additionally, other elements are considered when hiring foreign workers: financial performance of the business entity, number of employees, and whether the employer is engaged in activities for which they are hiring foreigners."
+      },
+      "faq7": {
+        "qus": "What language do foreign workers speak?",
+        "ans": "To meet our criteria for coming to work in Europe, workers need basic or advanced knowledge of English, depending on their job position and employer preferences."
+      }
+    }
+  },
+
+  "solutionsnavigating": {
+    "title": "Navigating immigration laws",
+    "description": "Navigating immigration laws across Europe can be challenging due to the varying legal frameworks governing the employment of foreign workers. That’s where we come into simplify and accelerate the entire process.",
+    "btn": "Contact",
+    "navigatearticale": {
+      "title": "Challenges with European Immigration Laws",
+      "boldtext": "One of the main challenges companies face in navigating European immigration laws is dealing with the complex and often fragmented legal framework designed to protect national labor markets while also addressing broader economic needs across the region.",
+      "peragraphs": [
+        "Complying with immigration laws in Europe can be particularly demanding for companies seeking to employ foreign talent. Employers must adhere to various national and EU-level regulations, such as work and residence permit requirements, tax and social security obligations, and conditions that may include proving the employment of a local or EU citizen for a defined period. The process often involves labor market tests, documentation compliance, and coordination with multiple government bodies.",
+        "An agency specializing in the employment of foreign workers can be a valuable partner in this process. Such agencies provide expert guidance through the legal complexities, assist with permit applications, advise on required documentation, and help ensure full compliance with national and EU labor laws.",
+        "If your organization is currently navigating these challenges, our employment administration service is here to support you with tailored solutions and expert assistance."
+      ]
+    },
+    "navigatedetails": {
+      "title": "Employment Administration",
+      "desc": "The employment administration service for foreign workers involves managing administrative tasks related to the employment of foreign nationals by companies operating in Europe. This service is designed to help companies navigate the complexities of hiring foreign workers, ensure compliance with European immigration and labor regulations, and streamline the administrative process.",
+      "btn": "Read More"
+    },
+    "content1": {
+      "title": "Access to Skilled Talent",
+      "pera": "Gain access to a pool of qualified, vetted professionals ready to meet your business needs."
+    },
+    "content2": {
+      "title": "Flexible Workforce Solutions",
+      "pera": "We recognize the importance of adaptability and offer workforce management solutions tailored to your operational demands."
+    },
+    "content3": {
+      "title": "Fast & Hassle-Free Recruitment",
+      "pera": "Accelerate your hiring process with our streamlined approach to sourcing, onboarding, and managing talent."
+    }
+  },
+  "solutionsseasonal": {
+    "title": "Employment of seasonal workers",
+    "description": "Whether you need a waiter, bartender, cook, kitchen assistant, cleaner, or receptionist – we’re here to help you hire the right talent for any role.",
+    "seasonalarticle": {
+      "title": "Challenges in finding seasonal workers",
+      "boldtext": "The problem of finding seasonal workers in Croatia, especially in industries such as tourism, catering, agriculture and construction, is multifaceted and often represents a significant challenge for employers.",
+      "peragraphs": [
+        "The hospitality industry, in particular, is now more affected by seasonal fluctuations than perhaps any other sector. Most of our clients struggle to accurately forecast their need for external or foreign workers during the high season, especially in the early months of the year.",
+        "As a result, many resorts, hotels, and restaurants make last-minute hiring decisions, which leads to a sudden surge in demand for workers. Unfortunately, the market often cannot respond to this demand immediately. From the moment an agreement is signed with a recruitment agency, it may take one to two months for foreign workers to arrive at their job sites. This timeline includes sourcing candidates, assessing qualifications, conducting interviews, processing paperwork, and other essential steps.",
+        "To address this, we offer a reliable solution that reduces the risks associated with delays and long waiting periods: labor outsourcing."
+      ]
+    },
+    "seasonaldetails": {
+      "title": "Assignment of workers",
+      "desc": "we enables quick and easy hiring of labor for seasonal projects or fixed-term assignments. You can tap into an existing pool of workers across Europe, significantly speeding up the recruitment process. We handle the conclusion of assignment agreements and take full responsibility for salary payments and all related administrative tasks. This service offers a practical solution for urgent workforce needs, ensuring flexibility and efficiency in managing staff for various projects and seasonal demands.",
+      "btn": "Read More"
+    },
+    "content1": {
+      "title": "Access to Skilled Talent",
+      "pera": "Gain access to a pool of qualified, vetted professionals ready to meet your business needs."
+    },
+    "content2": {
+      "title": "Flexible Workforce Solutions",
+      "pera": "We recognize the importance of adaptability and offer workforce management solutions tailored to your operational demands."
+    },
+    "content3": {
+      "title": "Fast & Hassle-Free Recruitment",
+      "pera": "Accelerate your hiring process with our streamlined approach to sourcing, onboarding, and managing talent."
+    }
+  },
+
+  "solutionconstruction": {
+    "title": "Employment of construction workers",
+    "description": "We offer a wide range of skilled professionals, including armourers, carpenters, masons, metal structure fitters, roofers, and construction machinery operators.",
+    "constructionarticle": {
+      "title": "Challenges in finding construction workers",
+      "boldtext": "The current issue in the construction industry regarding the shortage of workers stems from a significant lack of labor. This shortage hampers productivity, extends project timelines, and creates challenges in meeting the demand for skilled construction workers.",
+      "peragraphs": [
+        "The European market is experiencing a similar need for construction workers, as reflected in numerous advertisements for available construction positions. Companies across the continent often face difficulties in finding dedicated and skilled workers to meet this demand, which can result in hiring challenges and potential delays in project completion.",
+        "As a foreign worker recruitment agency, we offer several ways to assist you. First, we leverage our extensive network of skilled foreign workers who are eager to work across Europe. By connecting these workers with companies in need, we help bridge the gap between labor supply and demand. Additionally, we provide support in navigating the legal requirements for hiring foreign workers, ensuring a seamless and compliant hiring process for both companies and workers.",
+        "Our solution to address these challenges is employment mediation."
+      ]
+    },
+    "constructiondetails": {
+      "title": "Employment mediation",
+      "desc": "By offering an employment mediation service, we assist companies in accessing a pool of qualified workers, addressing the challenges you face in finding a skilled workforce. Through the facilitation of foreign worker employment and the provision of comprehensive employment services, we play a crucial role in meeting the workforce needs of the construction industry across Europe.",
+      "btn": "Read More"
+    },
+    "content1": {
+      "title": "Access to Skilled Talent",
+      "pera": "Gain access to a pool of qualified, vetted professionals ready to meet your business needs."
+    },
+    "content2": {
+      "title": "Flexible Workforce Solutions",
+      "pera": "We recognize the importance of adaptability and offer workforce management solutions tailored to your operational demands."
+    },
+    "content3": {
+      "title": "Fast & Hassle-Free Recruitment",
+      "pera": "Accelerate your hiring process with our streamlined approach to sourcing, onboarding, and managing talent."
+    }
+  },
+
+  "solutionmedical": {
+    "title": "Employment of medical workers",
+    "description": "Doctors, nurses, medical technicians, pharmacists, and other healthcare professionals – we are here to assist you with recruiting for all medical roles..",
+    "medicalarticle": {
+      "title": "Challenges in finding medical workers",
+      "boldtext": "The challenge of finding qualified medical personnel, particularly in specialized fields such as healthcare, is a complex issue facing many healthcare facilities across Europe.",
+      "peragraphs": [
+        "In Europe, the healthcare sector faces similar challenges as many other regions in finding and retaining qualified medical personnel. The demand for skilled healthcare professionals, including doctors, nurses, pharmacists, and technicians, continues to grow due to factors such as an aging population, advances in medical treatments, and evolving healthcare needs.",
+
+        "The demand for medical professionals continues to increase, driven by factors like population growth, an aging demographic, and advancements in medical technology.",
+
+        "Europe's healthcare system relies on a combination of public and private institutions, each with unique staffing needs. While the continent’s medical workforce is highly skilled, there are often shortages in certain specialties or regions, leading to gaps in patient care and increased workloads on existing staff.",
+        "Healthcare facilities also face difficulties in accurately forecasting their staffing needs, resulting in shortages during critical periods. This unpredictability can disrupt patient care and strain the workload of existing staff."
+      ]
+    },
+    "medicaldetails": {
+      "title": "Employment mediation",
+      "desc": "Healthcare facilities across Europe often struggle with accurately forecasting their staffing needs, resulting in shortages during critical periods. This unpredictability can disrupt patient care and place additional strain on existing staff.",
+      "btn": "Read More"
+    },
+    "content1": {
+      "title": "Access to Skilled Talent",
+      "pera": "Gain access to a pool of qualified, vetted professionals ready to meet your business needs."
+    },
+    "content2": {
+      "title": "Flexible Workforce Solutions",
+      "pera": "We recognize the importance of adaptability and offer workforce management solutions tailored to your operational demands."
+    },
+    "content3": {
+      "title": "Fast & Hassle-Free Recruitment",
+      "pera": "Accelerate your hiring process with our streamlined approach to sourcing, onboarding, and managing talent."
+    }
+  },
+
+  "whyus": {
+    "title": " Why Us",
+    "description": " We are a recruitment agency that specializes in connecting companies with the right talent.",
+    "article1": {
+      "title": "A simpler and quicker way to get qualified candidates",
+      "pera": "We offer clients several options of providing employees (e.g. temporary recruitment), giving them a faster and more flexible way of hiring."
+    },
+    "article2": {
+      "title": "A way to save time and money",
+      "pera": "recruitment4U assumes all administrative, legal and financial duties, saving time for you and your employees."
+    },
+    "article3": {
+      "title": "Huge database of candidates",
+      "pera": "We can quickly fulfil your employee requirements thanks to our wide variety of candidates with different profiles and skillsets."
+    },
+    "article4": {
+      "title": "Experience and established processes",
+      "pera": "As a result of years of agency work, we have well-defined processes, experience in hiring local and foreign workers, office all across Croatia, and visibility across the region."
+    }
+  },
+
+  "behindthebrand": {
+    "title": "Global tech recruitment & staffing for fast-growing companies",
+    "description": "We supply our clients with exclusive recruitment services helping businesses scale and prosper",
+    "btn": " Book a call",
+    "content1": {
+      "title": "Our Mission",
+      "pera": "To connect great companies with even greater talent."
+    },
+    "content2": {
+      "title": "Our Vision",
+      "pera": "To be the leading partner that clients and candidates always choose to connect with."
+    },
+    "content3": {
+      "title": "Our Approach",
+      "pera1": " We are a goals driven team, where culture is more important than formal processes.",
+      "pera2": "We are a goals driven team, where culture is more important than formal processes.",
+      "pera3": "We have built a work environment that nurtures growth and true teamwork. There is nothing as satisfying as learning and celebrating successes together!"
+    },
+    "teamsction": {
+      "title": "Ready to level up? Join us",
+      "team1": {
+        "name": "Sales Manager",
+        "description": "Leads the sales team, handles sales directly, works closely with recruitment leadership to set the strategy. ",
+        "btnText": "Take the First Step"
+      },
+      "team2": {
+        "name": "Senior Recruitment Consultant",
+        "description": "Experienced recruiter with higher-level responsibilities, including mentoring junior staff and handling key accounts.",
+        "btnText": "Say Hello to Your Next Job"
+      },
+
+      "team3": {
+        "name": "Sales Representative",
+        "description": "Finds and secures new clients, promotes services, and negotiates contracts. Targets lead generation and agency growth.",
+        "btnText": "Step Into Your Future"
+      },
+      "team4": {
+        "name": "Operations Manager",
+        "description": "Handles internal processes, tools, compliance, and workflow efficiency.",
+        "btnText": "Step Into Your Future"
+      },
+      "team5": {
+        "name": "Office Manager ",
+        "position": "COO",
+        "description": "Manages the day-to-day operations of a specific location. Oversee sales, recruitment, and administration.",
+        "btnText": "It Starts Here"
+      },
+      "team6": {
+        "name": " Managing Director",
+        "description": "Sets overall business strategy and vision. Ensures agency profitability.",
+        "btnText": "Add Flavor to Your Work Life"
+      },
+      "team7": {
+        "name": " Office Administrator",
+        "description": "Handles documentation, work permit applications submission, and is in charge of aftersales communication with clients.",
+        "btnText": "Design Your Future"
+      },
+      "team8": {
+        "name": "Marketing Manager",
+        "description": "Promotes the agency's brand and services through campaigns and social media.",
+        "btnText": "Serve Up Your Talent"
+      },
+      "team9": {
+        "name": "HR Manager ",
+        "description": "Manages internal recruitment, in-house training, and staff development.",
+        "btnText": "Claim Your Role"
+      },
+      "team10": {
+        "name": "After Sales Support Officer",
+        "description": "Works closely with teams in sales and support teams in source countries to ensure smooth arrival of the workers and provide support to the clients.",
+        "btnText": "We’d Love to Meet You"
+      },
+
+      "teamdetails1": {
+        "title": "Sales Manager",
+        "subtitle": "Leadership role with strategic impact",
+        "title1": "Role Overview",
+        "desc1": "In today's fast-paced business landscape, sales is more than just closing deals; it's about driving transformation, empowering people, and building a sustainable path for growth. This is where the role of a Sales Manager becomes not just important, but essential.",
+        "desc2": "As a Sales Manager, you won't just be managing a team, you'll be leading it with strategy, vision, and a results-driven mindset. This role blends leadership with hands-on involvement, giving you the opportunity to oversee a high-performing sales team while also directly managing key accounts and major deals.",
+        "desc3": "You'll work hand-in-hand with recruitment leadership to align the sales approach with broader organizational goals, ensuring that every effort contributes meaningfully to the company's success.",
+        "title2": "What Sets This Role Apart",
+        "desc4": "What sets this role apart is its unique blend of strategic planning and people leadership. Sales Managers are at the forefront of revenue generation, responsible for developing and executing innovative strategies, mentoring team members, and staying ahead of industry trends.",
+        "desc5": "Your insight into market movements and competitor activity will play a key role in shaping the company's approach. Ideal candidates will bring proven experience in sales or business development, strong communication and negotiation skills, and a sharp, analytical mindset. Leadership experience, especially in the recruitment or service industry, will be a major plus.",
+        "title3": "Rewards & Benefits",
+        "desc6": "Beyond the responsibilities, the Sales Manager role offers substantial rewards. It's a career-defining opportunity with a clear path to executive growth, performance-based bonuses, and the chance to influence core business decisions.",
+        "desc7": "You'll be part of a vibrant, collaborative team environment where your ideas are valued and your impact is visible. If you're ready to lead with purpose, drive change, and take your career to the next level, this could be the perfect fit.",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "teamdetails2": {
+        "title": "Senior Recruitment Consultant",
+        "subtitle": "Strategic role in talent acquisition",
+        "title1": "Role Overview",
+        "desc1": "In the dynamic world of talent acquisition, the role of a Senior Recruitment Consultant stands out as a strategic pillar in any high-performing recruitment team. Unlike junior recruiters who focus primarily on sourcing and screening, senior consultants operate on a higher level bringing years of industry expertise, strategic insight, and leadership to the table.",
+        "desc2": "They manage the full recruitment life cycle with precision, while also mentoring junior staff, handling key client accounts, and driving business development efforts.",
+        "title2": "Dual Role of a Senior Consultant",
+        "desc3": "A Senior Recruitment Consultant plays a dual role: that of a top-tier recruiter and a trusted advisor. They are instrumental in shaping hiring strategies, aligning recruitment efforts with market trends, and ensuring the agency consistently delivers high-quality talent.",
+        "desc4": "Their responsibilities go beyond placements - they nurture long-term relationships with clients, provide guidance to less-experienced team members, and contribute significantly to the agency's growth. From negotiating contracts to identifying new opportunities for collaboration, their impact is both immediate and far-reaching.",
+        "title3": "What Sets This Role Apart",
+        "desc5": "What truly sets a Senior Recruitment Consultant apart is a combination of emotional intelligence, resilience, and deep market knowledge. They possess strong interpersonal and communication skills, enabling them to build trust with both candidates and clients.",
+        "desc6": "Their ability to anticipate hiring needs and offer tailored solutions makes them invaluable assets to any organization. Ultimately, a Senior Recruitment Consultant is more than just an experienced recruiter; they are a strategic partner who transforms the hiring process into a competitive advantage.",
+        "title4": "Ready to take your recruitment career to the next level?",
+        "desc7": "We're looking for experienced, passionate, and strategic-minded individuals to join our team as Senior Recruitment Consultants. If you thrive on mentoring others, managing key accounts, and making an impact this role is for you.",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+
+      "teamdetails3": {
+        "title": "Sales Representative",
+        "subtitle": "High-impact role driving business growth",
+        "title1": "Role Overview",
+        "desc1": "Are you a go-getter with a passion for people, a hunger for success, and the confidence to turn a 'maybe' into a 'yes'? Then you might be the Sales Representative we're looking for! At our recruitment agency, we don't just fill positions, we build bridges between exceptional talent and growing companies. And now, we're ready to grow, too, with your help.",
+        "desc2": "In this high-impact role, you'll be at the forefront of our expansion efforts. Your core responsibilities will include finding and securing new clients, promoting our full range of recruitment and HR solutions, and negotiating contracts that deliver value for all parties. You'll focus on lead generation, cold and warm outreach, market research, and conversion strategies that elevate our brand and drive sustainable growth",
+        "title2": "Strategic Partnership Building",
+        "desc3": "But this is more than just sales, it's about strategy, innovation, and building long-term partnerships. You'll collaborate closely with our internal teams to ensure that clients receive not just candidates, but solutions that transform their workforce. Whether it's a startup looking for its first hire or an enterprise scaling fast, you'll be the one opening doors and creating opportunities.",
+        "title3": "We’re looking for someone who is:",
+        "desc4": {
+          "items": [
+            "Confident, persuasive, and an excellent communicator",
+            "Strategic in approach and creative in execution",
+            "Comfortable using CRM tools and sales analytics to optimize performance",
+            "Motivated by targets, KPIs, and the thrill of achieving goals"
+          ]
+        },
+        "title4": "Why Join Us?",
+        "desc5": "You'll be part of a supportive, fast-paced, and collaborative team that values your voice and ideas. We offer ongoing training, performance incentives, and the chance to shape your own success story. If you're looking for a career where your contributions matter and your growth potential is unlimited this is it.",
+        "desc6": "eady to sell a service you truly believe in? Ready to join a team that celebrates your wins?",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "teamdetails4": {
+        "title": "Recruitment Operations Manager",
+        "subtitle": "High-impact role driving business growth",
+        "title1": "Role Overview",
+        "desc1": "In the fast-paced world of recruitment, success doesn’t just come from finding great talent, it comes from having the right systems in place to support the entire hiring journey. That’s why we’re looking for a Recruitment Operations Manager who’s passionate about process excellence, data-driven decisions, and operational impact.",
+        "title2": "Why This Role Matters",
+        "desc2": "As our Recruitment Operations Manager, you'll be the engine behind our talent acquisition function. You'll lead the charge in managing internal hiring tools, streamlining processes, and ensuring full compliance with local and international hiring regulations. In other words you’ll be the glue that holds it all together and the strategist that takes us further.",
+        "desc3": "This isn’t just an admin role. It’s a mission-critical position that directly influences the quality, speed, and effectiveness of our recruitment process.",
+        "title3": "Strategic Partnership Building",
+        "desc4": "But this is more than just sales, it's about strategy, innovation, and building long-term partnerships. You'll collaborate closely with our internal teams to ensure that clients receive not just candidates, but solutions that transform their workforce. Whether it's a startup looking for its first hire or an enterprise scaling fast, you'll be the one opening doors and creating opportunities.",
+        "title4": "What You’ll Do",
+        "list1": {
+          "items": [
+            "Own and optimize all recruitment systems, including ATS, HRIS integrations, and reporting dashboards.",
+            "Design, document, and improve workflows for sourcing, screening, interviewing, and onboarding.",
+            "Ensure our recruitment practices remain compliant with legal standards and ethical hiring policies.",
+            "Analyze hiring metrics and provide actionable insights for smarter decisions.",
+            "Implement new tools and technologies to elevate candidate and recruiter experience."
+          ]
+        },
+        "title5": "What You Bring",
+        "list2": {
+          "items": [
+            "Proven experience in recruitment operations, talent acquisition, or HR project management.",
+            "A strong grasp of compliance practices, process design, and recruitment metrics.",
+            "Tech-savviness and familiarity with modern recruitment tools like Greenhouse, Lever, Workday, or BambooHR.",
+            "A proactive mindset, attention to detail, and the ability to think both critically and strategically."
+          ]
+        },
+        "title6": "Why Join Us?",
+        "desc5": "At Recruitment 4U, we believe that people are the heart of every great business and so is the system that brings them in. You’ll be joining a vibrant, forward-thinking team where your ideas are valued, your growth is supported, and your work makes a visible impact.",
+        "desc6": "This is your chance to shape the future of how we hire not just for today, but for what comes next.",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+
+      "teamdetails5": {
+        "title": "Branch Manager / Office Manager",
+        "subtitle": "Strategic role in talent acquisition",
+        "title1": "Role Overview",
+        "desc1": "Are you ready to lead with purpose and passion? We’re looking for a dynamic and experienced Branch Manager / Office Managerto join our team and oversee the daily operations of one of our branch locations. This is a key leadership role that requires a strategic thinker with a hands-on approach and a strong drive to deliver results. As the head of the branch, you’ll be responsible for managing sales targets, overseeing recruitment efforts, and ensuring the administrative side of the office runs like clockwork. You’ll be at the center of it all motivating your team, building client relationships, and driving performance. We’re seeking someone who thrives in a fast-paced environment, possesses excellent communication and organizational skills, and has a proven track record in a management role ideally within recruitment, staffing, or sales. In return, we offer a competitive salary, performance-based bonuses, and a supportive culture that values your contributions and encourages professional growth. If you're someone who wants to lead, grow, and make a meaningful impact, we want to hear from you.",
+        "title2": "Ready to take the next step in your career?",
+        "desc2": "Apply now and let’s build success together.",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "teamdetails6": {
+        "title": "Director / Managing Director Opportunity",
+        "subtitle": "Leadership role with strategic impact",
+        "title1": "Role Overview",
+        "desc1": "Are you a seasoned leader with a passion for driving growth and shaping the future of an organization? We are currently seeking a Director / Managing Director to join a forward-thinking agency where leadership isn’t just about overseeing operations it’s about inspiring progress.",
+        "desc2": "In this pivotal role, you will be responsible for setting the overall business strategy and vision, ensuring the agency not only thrives today but evolves for tomorrow. You’ll work closely with key stakeholders to align company goals, spearhead innovation, and drive profitability. Your strategic decisions will directly influence the company’s direction, culture, and market position.",
+        "desc3": "The ideal candidate will bring a strong background in executive leadership, operational oversight, and team development. A proven track record of successfully leading organizations through growth and transformation is essential. You should be comfortable navigating complex challenges, identifying new market opportunities, and fostering a results-driven environment.",
+        "title2": "Ready to take the next step in your career?",
+        "desc4": "Joining this agency means stepping into a role where your leadership truly matters. You’ll have the autonomy to make high-level decisions while being supported by a dynamic team that shares your vision for excellence. If you're motivated by impact, challenge, and the opportunity to lead from the front this is the role for you.",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "teamdetails7": {
+        "title": "Recruitment Administrator / Office Administrator",
+        "subtitle": "Strategic role in talent acquisition",
+        "title1": "Role Overview",
+        "desc1": "Are you organized, detail-oriented, and passionate about helping others find the right opportunities? We’re looking for a Recruitment Administrator / Office Administrator to join our fast-paced, client-focused team.",
+        "desc2": "In this role, you'll be the backbone of our recruitment operations managing crucial documentation, submitting work permit applications, and ensuring smooth aftersales communication with our valued clients. You won’t just be handling paperwork; you’ll be contributing directly to life-changing job placements and supporting the seamless experience we promise both employers and candidates.",
+        "desc3": "From day one, you’ll play a vital role in maintaining compliance, ensuring timely submissions, and keeping every file in perfect order. You'll liaise with clients, agencies, and government bodies making your mark as the go-to person who ensures no detail is overlooked. Your efficiency and reliability will directly influence the speed and success of our placements.",
+        "desc4": "We’re not just looking for someone who can follow a checklist. We want someone who thinks two steps ahead, spots potential delays before they happen, and brings a solutions-focused mindset to every challenge. If you’re the kind of person who gets satisfaction from crossing off to-do lists and thrives in a structured environment, you’ll love this role.",
+        "desc5": "Beyond administrative tasks, your contribution will have real human impact ensuring candidates get placed smoothly, employers remain informed and satisfied, and processes run like clockwork. You’ll be a critical part of a mission-driven team that values communication, excellence, and accountability.",
+        "desc6": "If you're ready to take ownership of a meaningful role, grow in a supportive team, and make a real impact in the recruitment industry this is your chance.",
+        "title2": "Apply now and let’s build success stories together!",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "teamdetails8": {
+        "title": "Marketing Manager",
+        "subtitle": "Business Development",
+        "title1": "Role Overview",
+        "desc1": "Are you a strategic thinker with a flair for creativity and digital innovation? Do you have a passion for brand storytelling and know how to craft campaigns that spark engagement and drive results? If so, we have the perfect opportunity for you!",
+        "desc2": "We’re currently on the hunt for a dynamic Marketing Manager who will be at the heart of our agency’s growth. This role goes beyond just managing social media; it's about championing our brand, shaping public perception, and leading impactful marketing initiatives that position our services front and center.",
+        "desc3": "As our Marketing Manager, you’ll develop and execute integrated marketing campaigns, oversee content creation across platforms, collaborate with internal teams, and analyze performance to refine strategies. Your efforts will directly influence how the world sees us and more importantly, how our services reach and resonate with clients and candidates alike.",
+        "desc4": "This is your chance to bring bold ideas to life in a fast-paced, supportive environment where innovation is encouraged, and results are celebrated. If you’re a motivated professional who thrives on challenge and creativity, we’d love to hear from you.",
+        "title2": "Ready to Optimize the Future of Recruitment?",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "teamdetails9": {
+        "title": "HR Manager",
+        "subtitle": "Human Resources Manager, HR",
+        "title1": "Role Overview",
+        "desc1": "Are you passionate about people, talent development, and creating a thriving workplace culture? We’re looking for a proactive and experienced HR Manager to join our team and lead our internal recruitment, in-house training programs, and overall staff development strategy.",
+        "desc2": "As the HR Manager, you’ll play a pivotal role in shaping the future of our workforce. You’ll manage the entire recruitment lifecycle from identifying staffing needs to onboarding top talent. Your expertise will help nurture an environment where employees are motivated, well-trained, and continuously growing. Whether it’s designing tailored training sessions or developing career progression pathways, you’ll be at the heart of building a dynamic and engaged team.",
+        "desc3": "In this role, you won’t just fill positions, you'll build careers. Your ability to connect with people, understand their strengths, and align them with the right opportunities will be key to our continued success. You’ll also serve as a trusted advisor to department heads, ensuring HR strategies align with our broader business goals.",
+        "desc4": "We’re searching for someone who brings both strategic vision and a hands-on approach. You should be comfortable navigating employee relations, updating HR policies, and leading workshops or training sessions. If you enjoy problem-solving, empowering others, and fostering a positive workplace culture, you’ll thrive here.",
+        "desc5": "This is more than just a job, it's a leadership opportunity to shape an organization from the inside out. You'll be surrounded by a supportive leadership team, a collaborative work environment, and the tools you need to drive meaningful change.",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "teamdetails10": {
+        "title": "After Sales Support Officer",
+        "subtitle": "after-sales service provided by a company to its customers",
+        "title1": "Role Overview",
+        "desc1": "In today’s fast-paced recruitment world, the role of an After Sales Support Officer is crucial in ensuring a seamless experience for both workers and clients. As a vital link between the sales and support teams in source countries, this position focuses on coordinating the smooth arrival of workers and delivering exceptional ongoing support to our valued clients. Your dedication helps build trust and satisfaction, turning recruitment into a long-term partnership rather than just a transaction",
+        "desc2": "This role requires excellent communication skills and cultural sensitivity, as you will be liaising with diverse teams and individuals across different countries. You will manage expectations, troubleshoot challenges, and provide timely updates to ensure that everyone involved feels informed and supported throughout the process. Your efforts will directly impact the positive experience of workers settling into new environments and clients receiving the talent they need.",
+        "desc3": "Moreover, the After Sales Support Officer plays a strategic part in identifying areas for improvement within the post-placement process. By collecting feedback and collaborating with internal teams, you help shape policies and solutions that enhance efficiency and satisfaction. Your insight ensures that the recruitment process doesn’t end at placement but continues with a strong support system that fosters retention and growth.",
+        "desc4": "If you are detail-oriented, proactive, and passionate about client care, this is the perfect opportunity for you to thrive in a dynamic environment. By working closely with cross-functional teams, you’ll play an essential role in resolving issues quickly, enhancing worker integration, and maintaining strong client relationships.",
+        "desc5": "This is more than just a job, it's a leadership opportunity to shape an organization from the inside out. You'll be surrounded by a supportive leadership team, a collaborative work environment, and the tools you need to drive meaningful change.",
+        "btnApply": "Apply. Shine. Succeed"
+      },
+      "applicationpopup": {
+        "title": "Ready to impress?",
+        "subtitle1": "Email your CV to",
+        "subtitle2": "with your desired position in the subject line.",
+        "desc1": "A cover letter helps us see what makes you shine!",
+        "desc2": " By applying, you consent to us storing your details for up to 24 months, in line with EU data protection laws.",
+        "btn": "Got it!"
+      }
+    },
+
+    "articlesection": {
+      "title": "Recruitment reads. Refreshed. Refined.",
+      "value1": {
+        "title": "Which Nationality Should You Prefer When You Think Outside Europe?"
+      },
+      "value2": {
+        "title": "Should You Rely on an Agency That Charges a High Amount? Things to Consider Before Choosing a Recruitment Partner to Build a Great Team in Europe."
+      },
+      "value3": {
+        "title": "How Fast Can Recruitment-4u Bring Foreign Workers to Europe? And how much can we really influence the visa approval timeline?"
+      }
+    }
+  },
+  "career": {
+    "tag": "Trusted Recruitment Agency",
+    "titleh1": "Launch Your",
+    "titleh2": "Dream Career",
+    "paragraph": "Your dream career starts here. We connect exceptional talent with extraordinary opportunities across global industries. Let us guide you to your perfect role.",
+    "stats1": "Candidates Placed",
+    "stats2": "Countries Served",
+    "stats3": "Partner Companies",
+    "jobsectiontitle": "Why Choose Us?",
+    "listcate1": "Personalized career matching",
+    "listcate2": "Global opportunities",
+    "listcate3": "Industry expert guidance",
+    "listcate4": "End-to-end support",
+    "botton1": "Start Your Journey",
+    "botton2": "Find Your Dream Job",
+    "botton3": "Career Consultation",
+    "sectionh1": "Find Your Dream",
+    "sectionh2": "Career",
+    "sectionp": "Discover exciting opportunities that match your skills and aspirations. Join thousands of successful candidates who found their perfect role with us.",
+    "sectiontab1": "All Jobs",
+    "sectiontab2": "General Worker",
+    "sectiontab3": "Admin Executive",
+    "sectionptab1": "Browse through all available job opportunities across various industries and locations.",
+    "sectionptab2": "Practical roles requiring technical skills and hands-on expertise in construction, manufacturing, and trades.",
+    "sectionptab3": "Premium opportunities with competitive packages and exceptional career growth potential.",
+    "notFound": "No Jobs Found",
+    "notFoundp": "There are currently no jobs available in this category. Please check back later or browse other categories."
+  },
+  "recruitmentcard": {
+    "title": "Recruitment",
+    "desc1": " Optimize your time and resources with our comprehensive recruitment solutions.",
+    "desc2": "Find the talent you need to drive business growth.",
+    "buttonText": "Book a call",
+    "ads": "client",
+
+    "whatsdo": {
+      "title": "What We Do",
+      "card1": {
+        "title": "Results-Driven Recruiting",
+        "desc1": "We manage the recruitment process from start to finish.",
+        "desc2": "We follow a pay-per-hire model where you only pay for successful placements."
+      },
+      "card2": {
+        "title": "Subscription-Based Solutions",
+        "desc1": "Enjoy full-cycle recruitment services with flexible subscription plans.",
+        "desc2": "We tailored workers for you Globally as per your need."
+      },
+      "card3": {
+        "title": "Recruitment Process Outsourcing (RPO)",
+        "desc1": "Outsource part or all of your recruitment process to streamline hiring operations."
+      }
+    },
+
+    "benefits": {
+      "title": "Benefits",
+      "benefit1": {
+        "title": "Access to Top Talent",
+        "desc": "Over 130,000 candidates in our database, featuring diverse skill sets."
+      },
+      "benefit2": {
+        "title": "Expertise You Can Trust",
+        "desc": "Proprietary screening methodology and 30+ recruitment channels."
+      },
+      "benefit3": {
+        "title": "Transparent Process",
+        "desc": "Real-time CRM access to monitor the recruitment funnel."
+      },
+      "benefit4": {
+        "title": "In-Depth Insights",
+        "desc": "Thorough technical interviews with detailed summaries."
+      },
+      "benefit5": {
+        "title": "Flexible Payment Options",
+        "desc": "Various tariff plans and payment methods, including cryptocurrencies."
+      },
+      "benefit6": {
+        "title": "Personalized Support",
+        "desc": "Dedicated manager and recruiter for each client."
+      }
+    },
+
+    "ourprocess": {
+      "title": "Our Process",
+      "desc": " Reduce time to hire. We&apos;ll provide you with the first  candidates within 3-5 days.",
+      "card1": {
+        "title": "Step 1: Submit Your Requirements",
+        "time": "(1-3 days)",
+        "desc": "Provide us with your job description and requirements.",
+        "task": [" Company Overview", " Vacancy Details", " Contract Signing"]
+      },
+      "card2": {
+        "title": "Full-Cycle Recruiting",
+        "time": "(1-4 weeks)",
+        "desc": "We will screen candidates based on your requirements.",
+        "task": [" Sourcing", " Pre-screening, Interviews", " Weekly Updates"]
+      },
+      "card3": {
+        "title": "Finalizing the Hire",
+        "time": "(4-6 weeks)",
+        "desc": "We will select the best candidates based on your requirements.",
+        "task": [
+          "Offer negotiations",
+          "Signing NDA with a candidate",
+          "Presenting results"
+        ]
+      }
+    },
+    "industries": {
+      "title": "Industries We Work In"
+    }
+  },
+
+  "hrconsulting": {
+    "title": "HR consulting",
+    "desc1": " We assist businesses in building a distinguished reputation that enhances visibility in the market and improves hiring outcomes.",
+    "buttonText": "Book a call",
+    "ads": "Trusted by top brands",
+    "whatsdo": {
+      "title": "What We Do",
+      "card1": {
+        "title": "Employer branding",
+        "desc1": "We craft a compelling image of your organization for prospective hires and current employees.",
+        "desc2": "enabling you to attract and retain top-tier talent."
+      },
+      "card2": {
+        "title": "Employee Experience",
+        "desc1": "We’ve partnered with over 70 organizations to optimize HR operations, meet objectives, and drive profitability."
+      }
+    },
+    "benefits": {
+      "title": "Benefits",
+      "desc": "We’ve partnered with over 70 organizations to optimize HR operations, meet objectives, and drive profitability.",
+      "benefit1": {
+        "title": "HR audit",
+        "desc": "Analyze your personnel management practices to identify areas for enhancement."
+      },
+      "benefit2": {
+        "title": "Insights",
+        "desc": "Pinpoint strengths and weaknesses within your HR framework while staying informed on industry trends."
+      },
+      "benefit3": {
+        "title": "Solutions",
+        "desc": "Develop a robust HR strategy swiftly, tailored for optimal results."
+      },
+      "benefit4": {
+        "title": "Experience",
+        "desc": "Expertly strategize employer branding to secure and retain top talent."
+      },
+      "benefit5": {
+        "title": "Flexible Payments",
+        "desc": "Choose from various pricing plans and payment options, including wire transfers and cryptocurrency."
+      },
+      "benefit6": {
+        "title": "Effective Recruitment",
+        "desc": "Enhance recruitment strategies and support hiring efforts for superior results."
+      }
+    },
+
+    "ourprocess": {
+      "title": "Our Process",
+      "desc": "Accelerate hiring timelines—we’ll deliver initial candidate profiles within 3-5 days.",
+      "card1": {
+        "title": "Tell Us About Yourself",
+        "task": [
+          "Company overview",
+          "Employer brand and experience analysis",
+          "Unique Value Proposition (UVP) for employees"
+        ]
+      },
+      "card2": {
+        "title": "We Drive Transformation",
+        "task": [
+          "Identify employee touchpoints",
+          "Map out employee lifecycle stages",
+          "Establish streamlined processes"
+        ]
+      },
+      "card3": {
+        "title": "We Deliver Results",
+        "task": [
+          "Implement cutting-edge technology",
+          "Conduct leadership training sessions",
+          "Present outcomes effectively"
+        ]
+      }
+    },
+    "industries": {
+      "title": "Industries We Work In"
+    }
+  },
+
+  "outstaffing": {
+    "title": "Outstaffing",
+    "desc": "We offer outstaffing solutions for rapidly growing businesses, enabling team expansion and boosting productivity.",
+    "buttonText": "Book a call",
+    "ads": "Trusted by top brands",
+    "card1": {
+      "title": "Zero Upfront Costs",
+      "desc": "Start hiring with no upfront costs. Our process is efficient, fast, and hassle-free. We handle payroll and taxes so you can focus on your business."
+    },
+    "card2": {
+      "title": "Flexible Workforce Management",
+      "desc": "Whether you need temporary staff for short-term projects or long-term hires, we adapt to your needs. Scale your workforce up or down with ease."
+    },
+    "card3": {
+      "title": "Long-Term Partnerships",
+      "desc": "We prioritize long-term relationships by providing remote workers who seamlessly integrate into your company culture."
+    },
+    "whatsdo": {
+      "title": "What We Do",
+      "description": "We help businesses expand quickly, enhance operations, achieve objectives, and boost profitability.",
+      "card1": {
+        "title": "IT Staff Augmentation",
+        "desc": "Get highly qualified professionals to strengthen your team and fill critical roles swiftly."
+      },
+      "card2": {
+        "title": "Project-based outstaffing",
+        "desc": "Receive a dedicated team to manage projects from inception to completion efficiently.."
+      },
+      "card3": {
+        "title": "R&D Center Development",
+        "desc": "Leverage our expertise in establishing R&D centers with top-tier talent tailored to your needs."
+      },
+      "card4": {
+        "title": "QA Team Building",
+        "desc": "Hire individual QA specialists or create a full team of experienced professionals for thorough quality assurance."
+      },
+      "card5": {
+        "title": "Technical Support Center Setup",
+        "desc": "Let us help you build or enhance your technical support department with skilled staff."
+      }
+    },
+    "industries": {
+      "title": "Industries We Work In"
+    },
+
+    "outstack": {
+      "title": "Stack / Specialization",
+      "box1": {
+        "title": "Back end development",
+        "desc": "We specialize in robust backend development using Node.js, Python, Go, and more."
+      },
+      "box2": {
+        "title": "Front end & design",
+        "desc": "Clean and interactive interfaces using React, TypeScript, and modern UI frameworks."
+      },
+      "box3": {
+        "title": "Mobile development",
+        "desc": "We specialize in cross-platform mobile development using Flutter, React Native, and more."
+      },
+      "box4": {
+        "title": "Game development",
+        "desc": "We specialize in creating immersive 3D game experiences using Unity and Unreal Engine technologies."
+      },
+      "box5": {
+        "title": "Data Science & Big Data",
+        "desc": "Data scientist, Machine Learning, Quantitative Researcher, AI Researcher, Data Analyst"
+      },
+      "box6": {
+        "title": "Management & Analysis",
+        "desc": "We specialize in management roles such as CTO, IT Project Manager, Product Manager, Business Analyst, and Team Lead."
+      },
+      "box7": {
+        "title": "Marketing & HR",
+        "desc": "We specialize in Marketing & HR roles such as CMO, Content Creator, PPC Specialist, Email Marketer, Traffic Manager, HR Business Partner, Recruiter, HR Director, and Copywriter."
+      },
+      "box8": {
+        "title": "QA, Infrastructure & Support",
+        "desc": "QA Automation, QA Manual,DevOps, Engineer Support Engineer."
+      }
+    },
+    "benefits": {
+      "title": "Benefits",
+      "desc": " We help 70+ companies improve their HR processes, achieve goals and get a profit.",
+      "benefit1": {
+        "title": "HR audit",
+        "desc": "Examine the processes in the field of personnel management, determine which improvements are needed"
+      },
+      "benefit2": {
+        "title": "Insights",
+        "desc": "Highlight the strengths and weaknesses of your HR department, tell about the latest trends"
+      },
+      "benefit3": {
+        "title": "Solutions",
+        "desc": "Build the company’s HR strategy in the shortest time and with the perfect result"
+      },
+      "benefit4": {
+        "title": "Experience",
+        "desc": "We professionally create an employer brand strategy for attracting talents and retaining employees."
+      },
+      "benefit5": {
+        "title": "Flexible Payments",
+        "desc": "Different tariff plans to choose from and a variety of payment methods from wire to crypto transfers."
+      },
+      "benefit6": {
+        "title": "Effective Recruitment",
+        "desc": "We can help in the area of recruiting by optimizing a recruitment strategy as well as assisting in hiring"
+      }
+    }
+  },
+
+  "blogone": {
+    "category": "Recruiting",
+    "title": "Which Nationality Should You Prefer When You Think Outside Europe?",
+    "date": "July 2, 2023",
+    "blog": {
+      "paragraphs": [
+        {
+          "type": "text",
+          "content": "When expanding your talent search beyond Europe, employers often face an overwhelming variety of global options. But not all international hiring decisions deliver the same value. Certain nationalities consistently rise to the top offering professionalism, adaptability, technical know-how, and cultural alignment. At Recruitment-4u, we've helped countless clients identify top-tier talent from across the globe, particularly from regions like the Gulf, Asia, North, and South America, where the talent pipeline is strong and continuously growing."
+        },
+        {
+          "type": "text",
+          "content": "These professionals don't just have the right qualifications; they come with the global mindset, work ethic, and communication skills needed in today's digital, fast-moving business world."
+        },
+        {
+          "type": "text",
+          "content": "Still, despite the size of the international talent pool, challenges remain. The real struggle isn't finding CVs, it's finding job-ready candidates with the perfect blend of hard and soft skills. Whether it's tech fluency, multilingual communication, or cross-functional collaboration, today's roles demand a lot more than just a diploma."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Work Smarter with Recruitment-4u: Your Global Recruitment Partner</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Hiring outside Europe is a strategic move but it also comes with added complexity. From verifying credentials to navigating visa processes and compliance regulations, it's not a journey you want to take alone. That's why smart companies partner with Recruitment-4u, your go-to global recruitment agency."
+        },
+        {
+          "type": "text",
+          "content": "We specialize in connecting businesses with high-performing professionals worldwide. Whether you're hiring developers, digital marketers, or healthcare professionals, we've got the network and the expertise to deliver results."
+        },
+        {
+          "type": "text",
+          "content": "With Recruitment-4u, you’ll avoid the common pitfalls of international hiring, saving time, money, and internal resources while gaining access to a global pool of highly qualified candidates."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog1.jpg",
+          "alt": "Recruitment team interviewing"
+        },
+        {
+          "type": "text",
+          "content": "<strong>How Recruitment-4u Finds the Right International Candidates</strong>"
+        },
+
+        {
+          "type": "text",
+          "content": "At Recruitment-4u, we use a multi-step approach to source and deliver top talent. First, we dig deep into our global candidate databases, and job boards. We go beyond passive sourcing; we use real-time analytics to identify professionals who match your job description, company culture, and growth goals."
+        },
+        {
+          "type": "text",
+          "content": "For candidates outside of Europe, we focus on verifying educational backgrounds, language skills, certifications, and cultural compatibility. Our vetting process ensures that each professional we present is equipped to hit the ground running in a global workplace."
+        },
+        {
+          "type": "text",
+          "content": "From job fairs and university partnerships to executive headhunting and skill assessments, our team ensures a tailored approach for every industry and job role."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Why Use a Global Recruitment Agency Like Recruitment-4u?</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Hiring internationally is not just about filling a position; it's about finding the right fit for your company culture and business goals. Recruitment-4u specializes in this, offering a range of services designed to make your hiring process as smooth as possible."
+        },
+        {
+          "type": "text",
+          "content": "In today’s fast-moving markets, the best candidates are often not actively searching. They're busy, successful, and open only to the right opportunity. That’s where Recruitment-4u comes in."
+        },
+        {
+          "type": "text",
+          "content": "<strong>why clients across Europe trust us with their international hiring:</strong>"
+        },
+
+        {
+          "type": "html",
+          "content": "<ul class='space-y-2 list-disc my-4'><p class='text-lg mb-10 text-primary leading-relaxed'>why clients across Europe trust us with their international hiring:</p><li><span class='mr-3'>✅</span><span class='font-black'>Access to English-speaking professionals...</span></li><li><span class='mr-3'>✅</span><span class='font-black'>End-to-end recruitment support...</span></li><li><span class='mr-3'>✅</span><span class='font-black'>Compliance knowledge...</span></li><li><span class='mr-3'>✅</span><span class='font-black'>Cost-effective and time-saving hiring processes</span></li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Whether you're hiring for a single role or scaling a global division, we provide flexible, efficient solutions tailored to your hiring goals."
+        },
+        {
+          "type": "text",
+          "content": "<strong>How to Choose the Right Global Recruitment Agency</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Not all agencies are created equal. When choosing a recruitment partner outside Europe, keep these points in mind:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class='space-y-2 list-decimal my-4'><li><strong>Check their international reach</strong>– Does the agency have strong candidate pipelines in high-potential regions?</li><li><strong>Assess compliance knowledge</strong>–Can they advise on cross-border hiring, payroll, or visa processes? </li><li><strong>Evaluate communication</strong>– Can they align with your company values and understand your team culture? </li></ul>"
+        },
+
+        {
+          "type": "text",
+          "content": "At Recruitment-4u, we tick all the boxes. Our global presence, data-driven methods, and personal approach make us a trusted partner for businesses across Europe."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Final Thoughts: Expand Globally, Hire Confidently</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Hiring outside Europe doesn’t need to be overwhelming. With the right guidance, you can unlock access to diverse, skilled, and highly motivated professionals who bring real value to your business."
+        },
+        {
+          "type": "text",
+          "content": "At Recruitment-4u, we connect companies with global talent that fits seamlessly into your workflows and company culture. From tech to finance, marketing to healthcare whatever your need, we’ve got the talent to match."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Ready to grow your team beyond borders?</strong><br />Let Recruitment-4u take the stress out of global hiring. Contact us today and we'll help you find the right candidate, faster.."
+        },
+        {
+          "type": "text",
+          "content": "Still thinking about it? Browse our success stories or talk to our consultants to see why businesses across Europe call Recruitment-4u their trusted recruitment partner."
+        }
+      ]
+    }
+  },
+
+  "blogtwo": {
+    "category": "Recruiting",
+    "title": "Should You Rely on an Agency That Charges a High Amount? Things to Consider Before Choosing a Recruitment Partner to Build a Great Team in Europe",
+    "date": "May 2, 2025",
+    "blog": {
+      "paragraphs": [
+        {
+          "type": "text",
+          "content": "The global business landscape is diverse and dynamic from the financial hubs of Dubai and Singapore to the thriving tech ecosystems of Bengaluru, São Paulo, and San Francisco. But one challenge remains consistent across regions: how to attract and hire the right people."
+        },
+        {
+          "access": "text",
+          "content": "In an increasingly competitive labour market, many companies turn to recruitment agencies to help build effective, future-ready teams. But when one agency quotes triple the price of another, it’s only natural to wonder is it worth it?"
+        },
+        {
+          "type": "text",
+          "content": "Let’s break down what you should really be paying for and how to assess if a recruitment partner is worth the investment."
+        },
+        {
+          "type": "text",
+          "content": "Why Do Some Agencies in Europe Charge More?"
+        },
+        {
+          "type": "text",
+          "content": "Recruitment today goes far beyond simply matching CVs to job descriptions. Top-tier agencies now serve as strategic partners offering customized hiring strategies, access to hard-to-reach talent, guidance on cross-border compliance, and valuable insights into cultural fit."
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>Multilingual talent sourcing</li><li>Executive search with strict confidentiality</li><li>Support across borders (e.g. GDPR compliance, local hiring regulations)</li><li>Employer branding advice and onboarding frameworks</li><li>Market salary benchmarking and talent mapping</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Especially when hiring for senior or niche roles in sectors like finance, life sciences, tech, or energy agencies that understand the European market landscape can make all the difference."
+        },
+        {
+          "type": "text",
+          "content": "What to Consider Before Partnering with a Recruitment Agency"
+        },
+        {
+          "type": "html",
+          "content": "<ol class='list-decimal ml-6 space-y-2'><li>Do they understand your industry and the European job market?</li><li>Can they help with cross-border hiring?</li><li>What’s their candidate sourcing strategy?</li><li>Are they transparent about costs and timelines?</li><li>Do they act like a vendor or a partner?</li></ol>"
+        },
+        {
+          "type": "text",
+          "content": "When Paying More is Actually Cost-Effective"
+        },
+        {
+          "type": "text",
+          "content": "Let’s face it, recruitment mistakes are costly. A bad hire can end up costing up to three times the employee’s annual salary. This impact is even greater in regions with strong labor protections and lengthy hiring cycles, where replacing the wrong candidate takes time, resources, and often, legal navigation."
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>Speed and efficiency, reducing time-to-hire</li><li>Higher-quality candidates, with better retention rates</li><li>Market insights that help avoid hiring missteps</li><li>Structured processes that reflect your brand professionally</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "In highly competitive job markets where company culture plays a big role, investing in a reliable recruitment agency often leads to better long-term outcomes."
+        },
+        {
+          "type": "text",
+          "content": "But Price Isn’t Everything…"
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>✅ Review their placement success rate</li><li>✅ Ask for client testimonials or case studies</li><li>✅ Understand their sourcing channels and vetting process</li><li>✅ Clarify their guarantees what happens if a hire doesn’t work out?</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "A high fee doesn’t always guarantee quality. Look for agencies that offer a balance of expertise, transparency, and a proven track record."
+        },
+        {
+          "type": "text",
+          "content": "The Right Agency Can Transform Your Hiring"
+        },
+        {
+          "type": "text",
+          "content": "Sometimes, the best agency for your company might be a boutique firm with strong regional connections and a hands-on approach, not necessarily the one with the biggest name or highest fee."
+        },
+        {
+          "type": "text",
+          "content": "Final Thought: Don’t Just Buy a Service Choose a Strategic Hiring Partner"
+        },
+        {
+          "type": "text",
+          "content": "Hiring in Europe requires local knowledge, cultural awareness, and legal precision. Whether you're hiring a single senior professional or building a large team, the recruitment partner you choose plays a key role in your success."
+        },
+        {
+          "type": "text",
+          "content": "A good agency saves you time. A great agency strengthens your business."
+        },
+        {
+          "type": "text",
+          "content": "Recruitment-4u – Smart Hiring for Smart Companies Across Europe"
+        },
+        {
+          "type": "text",
+          "content": "At Recruitment-4u, we help companies across the Gulf, Asia, North and South America find exceptional talent. Whether you’re scaling a tech start-up, hiring multilingual professionals, or navigating hiring compliance across borders we’ve got you covered."
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>In-depth regional knowledge</li><li>Tailored recruitment strategies</li><li>Transparent pricing & fast delivery</li><li>Long-term partnership focus</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Let us help you find the people who’ll move your business forward."
+        },
+        {
+          "type": "text",
+          "content": "Contact Recruitment-4u today because hiring in Europe doesn’t have to be hard when you have the right partner."
+        }
+      ]
+    }
+  },
+  "blogthree": {
+    "category": "Recruiting",
+    "title": "Which Nationality Should You Prefer When You Think Outside Europe?",
+    "date": "July 2, 2023",
+    "blog": {
+      "paragraphs": [
+        {
+          "type": "text",
+          "content": "As industries across Europe face increasing talent shortages, companies are turning to international recruitment to bridge the gap. Whether it's for skilled trades, healthcare, IT, or engineering, hiring talent from abroad has become essential. But the big questions remain:"
+        },
+        {
+          "type": "text",
+          "content": "“How quickly can we get qualified foreign workers into Europe?”<br />“Can Recruitment-4u help speed up the visa process?”<br />Let's clear things up."
+        },
+        {
+          "type": "text",
+          "content": "<strong>The Reality of International Hiring Timelines</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Hiring from outside Europe involves more than just sending an offer letter. From sourcing candidates and preparing documentation to navigating immigration systems, the full process typically takes 8 to 16 weeks, depending on several factors:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>The destination country and its immigration procedures</li>\n<li>The visa or work permit category (e.g., EU Blue Card, national skilled worker visa)</li>\n<li>Candidate documentation and qualifications</li>\n<li>Embassy processing times and government workloads</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "Some European nations have streamlined processes for bringing in highly skilled workers, making it easier to secure permits and start employment quickly. Others require more detailed legal steps and documentation but with the right preparation and guidance, the process can still move forward smoothly and efficiently."
+        },
+        {
+          "type": "text",
+          "content": "<strong>How Recruitment-4u Speeds Up the Process</strong>"
+        },
+        {
+          "type": "text",
+          "content": "While we don't control embassy queues or national immigration decisions, Recruitment-4u plays a critical role in making sure everything else moves fast, smoothly, and compliantly."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Here's how we help you get there faster:</strong>"
+        },
+        {
+          "type": "text",
+          "content": "<strong>1. Fast Access to International Talent</strong><br />We maintain a ready network of pre-qualified professionals across high-demand industries. That means you can skip the lengthy candidate search and jump straight to interviews with talent ready to relocate."
+        },
+        {
+          "type": "text",
+          "content": "<strong>2. Visa-Ready Documentation</strong><br />Most visa delays happen because of small paperwork errors. We make sure:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>All legal documents are accurate and complete</li>\n<li>Salary benchmarks and job roles meet visa standards</li>\n<li>Applications align with immigration laws in your target country</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "<strong>3. Country-Specific Expertise</strong><br />Recruitment-4u understands local regulations across Europe. Whether you're hiring in Gulf, Asia, North & South America or elsewhere in the EU, we help you:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Choose the right visa</li>\n<li>Avoid processing delays</li>\n<li>Understand national and EU-level compliance standards</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "<strong>4. End-to-End Support</strong><br />From candidate onboarding and relocation advice to coordination with immigration lawyers, we guide you through the entire process. You get a reliable partner—not just a CV provider."
+        },
+        {
+          "type": "text",
+          "content": "<strong>What We Don't Control</strong><br />To be clear: Recruitment-4u cannot:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Expedite government visa decisions</li>\n<li>Override embassy scheduling</li>\n<li>Influence border security clearances</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "But what we do control is everything leading up to those steps—and that's often where companies lose the most time. Our experience helps you avoid costly mistakes and prepare submissions that meet all local standards from the start."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Why Speed Comes from Preparation</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Faster hiring isn't about cutting corners. It's about knowing what's needed, when to submit, and how to get it right the first time. That's where Recruitment-4u adds real value. We help you:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Source the right candidates</li>\n<li>Prepare the right documents</li>\n<li>Follow the right legal process</li>\n<li>Set the right expectations</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "With our support, you can reduce your hiring timeline and fill key roles faster—without compromising on compliance or quality."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Let's Bring the Right Talent to You—Quickly and Confidently</strong>"
+        },
+        {
+          "type": "text",
+          "content": "If you're expanding your workforce with international professionals, working with Recruitment-4u gives you the advantage of speed, structure, and peace of mind."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Ready to hire globally?</strong><br />Let's talk about what's possible—and how fast we can make it happen.<br />Book a free consultation with a Recruitment-4u specialist today."
+        }
+      ]
+    }
+  },
+
+  "contactus": {
+    "text": "CONTACT",
+    "title": " Recruitment4u is here for you and all your questions — both for companies and job seekers.",
+    "btnText": "Offices",
+    "letscontact": "Let’s Connect"
+  },
+
+  "footer": {
+    "title": "About Us",
+    "desc": " Recruitment4u is registered for activities related to employment mediation and temporary employment of workers.",
+    "title2": "Our Global Presence",
+    "location1": {
+      "title": "Romania",
+      "desc": "Str. Sg. Constantin Moise 5 D, SECTORUL 6, BUCHAREST"
+    },
+    "location2": {
+      "title": "UAE [Dubai]",
+      "desc": "The One Tower, Fl.24, DUBAI, UAE"
+    },
+    "location3": {
+      "title": "Qatar",
+      "desc": "Global Business Center, Cornish Road, Doha, Qatar"
+    },
+    "location4": {
+      "title": "Ukraine",
+      "desc": "Viking Business Center, Zelena St, 151, Lviv, Lviv Oblast, Ukraine, 79000"
+    },
+    "copyright": "Copyright © 2025 Recruitment4u . All rights reserved."
+  }
+}

@@ -1,0 +1,1293 @@
+{
+  "nav": {
+    "home": "Domov",
+    "forCompanies": "Pre spoločnosti",
+    "solutions": "Riešenia",
+    "whyUs": "Prečo my",
+    "solutionsDropdown": {
+      "immigrationLaws": "Navigácia imigračnými zákonmi",
+      "seasonalWorkers": "Sezónni pracovníci",
+      "constructionWorkers": "Stavební pracovníci",
+      "medicalWorkers": "Zdravotnícki pracovníci"
+    },
+    "behindthebrand": "Za značkou",
+    "career": "Kariéry",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Spájame správnych pracovníkov so správnymi zamestnávateľmi.",
+    "subtitle": "Nájdite ideálne spojenie pre vaše podnikanie alebo kariérne ciele s našou platformou.",
+    "buttonText1": "Hľadám kvalifikovaných pracovníkov",
+    "buttonText2": "Hľadám zamestnanie"
+  },
+  "cardhome1": {
+    "title": "Nábor",
+    "description": "Poskytujeme kompletné služby v oblasti náboru a ľudských zdrojov prispôsobené vašim potrebám."
+  },
+  "cardhome2": {
+    "title": "HR poradenstvo",
+    "description": "Pomáhame firmám budovať silnú značku, ktorá vynikne a zlepší ukazovatele náboru."
+  },
+  "cardhome3": {
+    "title": "Outstaffing",
+    "description": "Zabezpečujeme outstaffing pre rýchlo rastúce spoločnosti, čím pomáhame rozširovať tímy a zvyšovať produktivitu."
+  },
+
+  "homepartner": {
+    "partner": "Váš partner pri nábore talentov",
+    "partnerdesc": "Špecializujeme sa na nábor a výber zahraničných pracovníkov z rôznych regiónov, vrátane Ázie, Perzského zálivu, Severnej a Južnej Ameriky a Afriky. Pôsobiac z našich centrálnych kancelárií v Dubaji, umiestňujeme pracovníkov v krajinách ako je Spojené kráľovstvo, Chorvátsko, Malta, Bulharsko, Poľsko, Rumunsko a ďalšie európske krajiny.",
+    "state1": {
+      "no1": "1",
+      "statetitle": "3000 ZAMESTNANÝCH PRACOVNÍKOV",
+      "statedec": "Za posledné dva roky sme priviedli viac ako 5000 občanov tretích krajín do európskych krajín. S viac ako 10% celkového trhu zahraničných pracovníkov sme poprednou agentúrou v zprostredkovaní zamestnávania zahraničných pracovníkov."
+    },
+    "state2": {
+      "no2": "2",
+      "statetitle": "450+ SPOKOJNÝCH KLIENTOV",
+      "statedec": "Sme hrdí na to, že sme vytvorili spoluprácu s mnohými veľkými podnikmi, ako aj malými a strednými podnikmi, ktoré mali najväčšiu potrebu pracovnej sily počas súčasnej hospodárskej expanzie."
+    },
+    "state3": {
+      "no3": "3",
+      "statetitle": "15 ODBORNÍKOV NA ĽUDSKÉ ZDROJE",
+      "statedec": "Náš tím 15 odborníkov je neustále k dispozícii zamestnávateľom, poskytujúc maximálne kvalitné služby pre každú oblasť ľudských zdrojov."
+    }
+  },
+
+  "agencysection": {
+    "title": "Moderné metódy na obnovenie bývalej slávy agentúrneho podnikania",
+    "accordionItems1": {
+      "accordiontitle": "Nájdite najlepších kandidátov.",
+      "contentdec": "Recruitment4u sa špecializuje na pomoc firmám oslobodiť sa od nepotrebných geografických obmedzení – takže môžete zamestnať najlepšiu osobu na svete, nielen najlepšiu v blízkosti."
+    },
+    "accordionItems2": {
+      "accordiontitle": "Automatizujte obchodné procesy.",
+      "contentdec": "Sústreďujeme sa na automatizáciu obchodných operácií, aby sme zjednodušili všetky procesy: od zhromažďovania prihlášok kandidátov, výberu, pohovorov, overovania pracovnej dokumentácie až po vytváranie zmlúv a vydávanie povolení. Všetky naše procesy sú plne automatizované."
+    },
+    "accordionItems3": {
+      "accordiontitle": "Inovujte výberové procesy.",
+      "contentdec": "Pri zamestnávaní zahraničných pracovníkov je dôležité zohľadniť úsilie oboch zúčastnených strán: pracovníka aj zamestnávateľa. Aby sme zaistili, že toto úsilie nebude márne, vyvinuli sme viacfázový výberový proces, ktorým musia kandidáti prejsť, aby splnili najvyššie kritériá pre prácu v krajinách ako Spojené kráľovstvo, Chorvátsko, Malta, Bulharsko, Poľsko, Rumunsko a ďalšie európske krajiny."
+    }
+  },
+
+  "findsolutions": {
+    "title": "Nájdite",
+    "description": "Vyvinuli sme niekoľko obchodných modelov, ktoré sú plne prispôsobené vašim potrebám.",
+    "solution1": {
+      "solutiontitle": "Leasing zamestnancov",
+      "solutiondesc": "Poskytujeme vám plnú pracovnú silu, ktorú spravujeme my. Týmto spôsobom sa môžete sústrediť na svoje obchodné ciele bez obáv z administratívnych detailov a právnych komplikácií."
+    },
+    "solution2": {
+      "solutiontitle": "Vykonávanie prác",
+      "solutiondesc": "Takmer dokonalé riešenie pre núdzové prípady, keď naši najlepší zamestnanci začnú pracovať pre vás už za niekoľko dní. Náš systém rýchleho nasadenia zabezpečuje minimálne narušenie vašich operácií pri zachovaní štandardov kvality."
+    },
+    "solution3": {
+      "solutiontitle": "Zprostredkovanie zamestnania",
+      "solutiondesc": "Vy ste zamestnávateľ a my sa staráme o kvalitný výber zamestnancov. Náš komplexný výberový proces zabezpečuje, že získate správne talenty, zatiaľ čo my sa zaoberáme všetkými zložitosťami náboru a súladu s predpismi."
+    },
+    "solution4": {
+      "solutiontitle": "Dočasné zamestnanie",
+      "solutiondesc": "Nájdeme, vyberieme a zamestnáme pracovníkov a pridelíme ich vašej obchodnej entite. Naše riešenia dočasného zamestnávania poskytujú flexibilitu pri zachovaní vysokých štandardov kvality a spoľahlivosti v riadení pracovnej sily."
+    },
+    "solution5": {
+      "solutiontitle": "Od leasingu k zprostredkovaniu",
+      "solutiondesc": "Vyhnite sa riziku a ušetrite cenný čas tým, že agentúra bude vaším zamestnávateľom počas skúšobnej doby. Týmto spôsobom sa môžete sústrediť na svoje obchodné ciele bez obáv z administratívnych detailov a právnych komplikácií."
+    }
+  },
+
+  "brand": {
+    "title": "Dôveryhodné partnerstvá poháňajú náš pokrok",
+    "subtitle": "Máte otázky?",
+    "brandbutton": "Poďme ich vyriešiť."
+  },
+  "recruitmentcenter": {
+    "title": "Náborové centrá",
+    "description": "Výber krajiny závisí od požadovaného povolania pracovníkov, pracovných podmienok ako aj preferencií zamestnávateľa.",
+    "center1": {
+      "country": "India",
+      "centerdesc": "India je krajina s bohatou kultúrou a históriou, známa ako svetový lídor v produkcii kovov. Indickí pracovníci sú známi svojou excelentnosťou v tejto oblasti, ako aj v informačných technológiách a inžinierstve."
+    },
+    "center2": {
+      "country": "Filipíny",
+      "centerdesc": "Filipíny sú ostrovný štát v juhovýchodnej Ázii známy svojimi nádhernými plážami a exotickou turistikou. Filipínski pracovníci sú známi svojou oddanosťou a profesionalitou v turistickom priemysle, ako aj v zdravotníctve."
+    },
+    "center3": {
+      "country": "Nepál",
+      "centerdesc": "Nepál je známy svojimi vysokými horami a krásnymi krajinami. Keďže nepálski pracovníci sú zvyknutí na náročné životné podmienky vo vysokých nadmorských výškach, sú ideálni pre prácu v poľnohospodárstve, výrobe alebo skladoch."
+    },
+    "center4": {
+      "country": "Spojené arabské emiráty a Katar",
+      "centerdesc": "Spojené arabské emiráty a Katar sú rozvinuté krajiny, kde viac ako 90 % pracovnej sily tvoria zahraniční pracovníci, najčastejšie z Nepálu, Indie, Bangladéša alebo Filipín. Slúžia ako dobrý filter pre kvalifikovanú pracovnú silu, ktorá získava skúsenosti, vedomosti a zručnosti z najmodernejších technológií a postupov."
+    }
+  },
+
+  "process": {
+    "title": "Proces náboru zahraničných pracovníkov",
+    "subtitle": "Komplexný prístup k medzinárodnému náboru",
+    "processsteps1": {
+      "title": "Vyhodnotenie projektu",
+      "duration": "Niekoľko dní",
+      "processdesc": "Spoločnou komunikáciou presne určíme vaše potreby a vyhodnotíme projekt. Po dokončení hodnotenia začneme spoluprácu splnením objednávky a podpísaním zmluvy."
+    },
+    "processsteps2": {
+      "title": "Nábor a výber",
+      "duration": "do 30 dní",
+      "processdesc": "Po podpísaní zmluvy spustíme náborové a výberové postupy. Tento proces zahŕňa zhromažďovanie prihlášok kandidátov, vykonávanie výberových postupov, pohovory s kandidátmi, overenie pravosti pracovnej dokumentácie a vykonávanie testov v domovskej krajine pracovníka."
+    },
+    "processsteps3": {
+      "title": "Vydávanie povolení",
+      "duration": "do 90 dní",
+      "processdesc": "Potom, čo sme presne definovali vaše potreby a identifikovali vhodných pracovníkov, môžeme začať proces vydávania pracovných povolení do UK, Chorvátska, Malty, Bulharska, Poľska, Rumunska a ďalších európskych krajín. Tento proces sa vykonáva v spolupráci s príslušnými úradmi, vrátane Chorvátskej služby zamestnanosti (HZZ), Ministerstva vnútra UK, Jobsplus Malta, Bulharskej agentúry pre zamestnanosť, Poľského úradu pre cudzincov, Rumunského generálneho inšpektorátu pre imigráciu, ako aj Ministerstva vnútra, Ministerstva zahraničných vecí a iných inštitúcií v domovskej krajine pracovníka."
+    },
+    "processsteps4": {
+      "title": "Príchod pracovníkov",
+      "duration": "do 15 dní",
+      "processdesc": "Posledný krok zahŕňa organizáciu letov pre pracovníkov, prípravu ubytovania, registráciu pobytu, vydávanie pobytových kariet, otváranie bankových účtov, ako aj ďalšie aktivity, ako sú lekárske prehliadky a školenia o bezpečnosti práce."
+    }
+  },
+  "contactform": {
+    "title": "Konzultácie. Plánovanie. Víťazstvo.",
+    "companyname": "Názov spoločnosti",
+    "name&surname": "Meno a priezvisko",
+    "email": "Email",
+    "phone": "Predvoľba štátu s telefónnym číslom",
+    "country": "Názov štátu",
+    "message": "Vaša správa",
+    "agre": "Chcel by som, aby ma kontaktoval zástupca Recruitment 4U z mojej krajiny",
+    "send": "Odoslať"
+  },
+  "forcompanies": {
+    "title": "Investujeme kapitál, aby sme získali hĺbkové znalosti o každom odvetví.",
+    "desc": "S dlhoročnými skúsenosťami s náborom v rôznych odvetviach nachádzame pracovníkov pre všetky profesie, ktoré potrebujete.",
+    "industrie1": {
+      "title": "KOVOPRIEMYSEL A TECHNICKÉ ODVETVIA",
+      "content1": "Zvárači, kovoročníci, potrubári, zlievači kovov, operátori a programátori CNC, mechanici a autolakovníci, pracovníci na pieskovanie, autoelektrikári, elektrikári a elektroinštalatéri, priemyselní elektrikári, stolári, inštalatéri kúrenia a klimatizácie, vodiči takmer všetkých kategórií, doručovatelia, vývojári a mnoho ďalších profesií."
+    },
+    "industrie2": {
+      "title": "STAVEBNÍCTVO",
+      "content2": "Operátori stavebných strojov, žeriavnici, železiari, poľnohospodárski pracovníci, murári, pokrývači, betonári, obkladači, maliari, izoléri a hydroizoléri, pracovníci na fasádach."
+    },
+    "industrie3": {
+      "title": "GASTRONÓMIA A MALOOBCHOD",
+      "content3": "Kuchári (vrátane kuchárov národných kuchýň), baristi a čašníci, chyžné, upratovačky, recepční, cukrári, pekári, opatrovatelia, pomocný personál, pracovníci v maloobchode, skladníci, vodiči vysokozdvižných vozíkov."
+    },
+    "industrie4": {
+      "title": "VÝROBA A DREVÁRSKY PRIEMYSEL",
+      "content4": "Pracovníci v mäsovýrobe a potravinárskom priemysle, pracovníci v textilnom priemysle (šičky), pracovníci v pílniciach, pracovníci pri výrobe nábytku a keramiky a mnoho ďalších."
+    },
+    "ourservice": {
+      "title": "Naše služby",
+      "desc": "Ku každému odvetviu pristupujeme individuálne, vyvíjame systémy náboru, výberu a umiestnenia zahraničných pracovníkov, ktoré zodpovedajú špecifikám každej oblasti hospodárstva."
+    },
+    "service1": {
+      "title": "ZÍSKAVANIE IT TALENTOV",
+      "desc": "Domáci trh vývojárov nedokáže pokryť rast IT sektora. Preto sa mnoho zamestnávateľov rozhoduje pre zahraničných pracovníkov. Kontaktujte nás a dozviete sa viac o našich službách ako sú: Vzdialené služby, prenájom programátorov, sprostredkovanie zamestnania."
+    },
+    "service2": {
+      "title": "ZVÁRANIE A KOVOSPRACOVANIE",
+      "desc": "Recruitment4u je jediná agentúra v Spojenom kráľovstve, ktorá samostatne vykonáva testovanie v domovských krajinách a zdieľa výsledky so zainteresovanými partnermi. Ako agentúra alebo dodávateľ pokrývame všetky procesy zvárania a kvalifikácie pracovníkov."
+    },
+    "service3": {
+      "title": "Recruitment4u AGRO",
+      "desc": "Recruitment4u Agro je projekt zameraný na uspokojenie potrieb primárneho sektora hospodárstva. Regrutujeme pracovníkov pre domácich podnikateľov v poľnohospodárstve, živočíšnej výrobe a potravinárskom priemysle."
+    },
+    "service4": {
+      "title": "PROGRAM PRE GASTRONÓMIU",
+      "desc": "Program pre gastronómiu je špeciálne organizovaný systém na nábor a výber pracovníkov do služieb a cestovného ruchu. Spájame hotelierov s pracovníkmi v spolupráci s rôznymi gastronomickými združeniami."
+    },
+    "service5": {
+      "title": "Recruitment4u CONSTRUCT",
+      "desc": "Stavebníctvo je sektor s najvyšším dopytom po zahraničných pracovníkoch, ale zároveň najnáročnejší na nájdenie vhodnej pracovnej sily. Recruitment4u Construct je projekt zameraný na nábor kvalifikovaných pracovníkov pre tento sektor."
+    },
+    "service6": {
+      "title": "PRISPÔSOBENÝ NÁBOR",
+      "desc": "Máte špecifickú požiadavku? Kontaktujte nás a náš obchodný zástupca prijme vašu objednávku a začne proces náboru požadovaných pracovníkov."
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "faq1": {
+        "qus": "Z ktorých krajín prijímate pracovníkov?",
+        "ans": "Podľa modelu používaného v rozvinutých krajinách Blízkeho východu sa Recruitment4u špecializuje na dovoz pracovníkov z Nepálu, Filipín a Indie."
+      },
+      "faq2": {
+        "qus": "Ako dlho trvá proces prijímania zahraničných pracovníkov?",
+        "ans": "Proces trvá 90 až 120 dní v závislosti od požadovanej pozície, výberu náborového centra a miesta vydania pracovného povolenia."
+      },
+      "faq3": {
+        "qus": "Musím zabezpečiť ubytovanie pre zahraničných pracovníkov?",
+        "ans": "Zahraniční pracovníci potrebujú po príchode ubytovanie v mieste výkonu práce. Toto môže zabezpečiť aj agentúra v spolupráci so zamestnávateľom."
+      },
+      "faq4": {
+        "qus": "Čím je špecifické zamestnávanie zahraničných pracovníkov?",
+        "ans": "Zahraniční pracovníci potrebujú povolenie na pobyt a pracovné vízum na vstup do UK, Chorvátska, Malty, Bulharska, Poľska, Rumunska alebo iných európskych krajín. Proces ich integrácie je rozsiahlejší a zahŕňa ubytovanie, registráciu pobytu, vydanie pobytových kariet (biometrických), ako aj otvorenie bankových účtov."
+      },
+      "faq5": {
+        "qus": "Ako si zahraničný pracovník vybaví dôchodkové a zdravotné poistenie?",
+        "ans": "Po registrácii pobytu vydáva príslušný úrad národné poistné číslo, na základe ktorého sa môže zaregistrovať na dôchodkové a zdravotné poistenie. Pred tým musí zamestnávateľ získať pracovné povolenie pre pracovníka."
+      },
+      "faq6": {
+        "qus": "Aké sú podmienky na zamestnávanie zahraničných pracovníkov?",
+        "ans": "Musí byť splnených niekoľko podmienok: spoločnosť musí fungovať viac ako šesť mesiacov, musí mať aspoň jedného britského zamestnanca počas tohto obdobia a nesmie mať daňové nedoplatky. Okrem toho sa posudzujú aj ďalšie faktory: finančný výkon firmy, počet zamestnancov a to, či zamestnávateľ podniká v oblasti, pre ktorú chce zamestnať cudzincov."
+      },
+      "faq7": {
+        "qus": "Akým jazykom hovoria zahraniční pracovníci?",
+        "ans": "Na splnenie našich kritérií musia pracovníci ovládať angličtinu aspoň na základnej alebo pokročilej úrovni, v závislosti od pracovnej pozície a požiadaviek zamestnávateľa."
+      }
+    }
+  },
+
+  "solutionsnavigating": {
+    "title": "Navigácia imigračnými zákonmi",
+    "description": "Navigácia imigračnými zákonmi v Európe môže byť náročná kvôli rôznym právnym rámcom, ktoré upravujú zamestnávanie zahraničných pracovníkov. Tu prichádzame my, aby sme zjednodušili a urýchlili celý proces.",
+    "navigatearticale": {
+      "title": "Výzvy európskych imigračných zákonov",
+      "boldtext": "Jednou z hlavných výziev, ktorým čelia spoločnosti pri navigácii európskymi imigračnými zákonmi, je vysporiadanie sa so zložitým a často fragmentovaným právnym rámcom navrhnutým na ochranu národných trhov práce, pričom súčasne rieši širšie ekonomické potreby v regióne.",
+      "peragraphs": [
+        "Dodržiavanie imigračných zákonov v Európe môže byť obzvlášť náročné pre spoločnosti, ktoré chcú zamestnať zahraničné talenty. Zamestnávatelia musia dodržiavať rôzne národné a európske predpisy, ako sú požiadavky na pracovné a pobytové povolenia, daňové a sociálne povinnosti, ako aj podmienky, ktoré môžu zahŕňať dokázanie zamestnania miestneho alebo európskeho občana na stanovené obdobie. Proces často zahŕňa testy trhu práce, súlad dokumentácie a koordináciu s viacerými vládnymi orgánmi.",
+        "Agentúra špecializujúca sa na zamestnávanie zahraničných pracovníkov môže byť v tomto procese cenným partnerom. Takéto agentúry poskytujú odborné usmernenie cez právne zložitosti, pomáhajú s žiadosťami o povolenia, radia ohľadom potrebnej dokumentácie a pomáhajú zabezpečiť úplnú súladnosť s národnými a európskymi pracovnými zákonmi.",
+        "Ak sa vaša organizácia v súčasnosti potýka s týmito výzvami, naša služba administrácie zamestnávania je tu, aby vás podporila s prispôsobenými riešeniami a odbornou pomocou."
+      ]
+    },
+    "navigatedetails": {
+      "title": "Administrácia zamestnávania",
+      "desc": "Služba administrácie zamestnávania zahraničných pracovníkov zahŕňa správu administratívnych úloh súvisiacich so zamestnávaním zahraničných občanov spoločnosťami pôsobiacimi v Európe. Táto služba je navrhnutá tak, aby pomohla spoločnostiam orientovať sa v zložitostiach zamestnávania zahraničných pracovníkov, zabezpečiť súlad s európskymi imigračnými a pracovnými predpismi a zjednodušiť administratívny proces.",
+      "btn": "Čítať viac"
+    },
+    "content1": {
+      "title": "Prístup ku kvalifikovaným talentom",
+      "pera": "Získajte prístup k fondu kvalifikovaných, overených profesionálov pripravených splniť vaše obchodné potreby."
+    },
+    "content2": {
+      "title": "Flexibilné riešenia pracovnej sily",
+      "pera": "Uznávame dôležitosť prispôsobivosti a ponúkame riešenia na riadenie pracovnej sily prispôsobené vašim prevádzkovým požiadavkám."
+    },
+    "content3": {
+      "title": "Rýchly a bezproblémový nábor",
+      "pera": "Zrýchlite svoj náborový proces s našim zjednodušeným prístupom k hľadaniu, onboardingu a riadeniu talentov."
+    }
+  },
+  "solutionsseasonal": {
+    "title": "Zamestnávanie sezónnych pracovníkov",
+    "description": "Či už potrebujete čašníka, barmana, kuchára, pomocníka v kuchyni, upratovača alebo recepčného – sme tu, aby sme vám pomohli nájsť ten správny talent pre akúkoľvek pozíciu.",
+    "seasonalarticle": {
+      "title": "Výzvy pri hľadaní sezónnych pracovníkov",
+      "boldtext": "Problém s hľadaním sezónnych pracovníkov v Chorvátsku, najmä v odvetviach ako je cestovný ruch, reštaurácie, poľnohospodárstvo a stavebníctvo, je mnohostranný a často predstavuje významnú výzvu pre zamestnávateľov.",
+      "peragraphs": [
+        "Pohostinský priemysel je v súčasnosti ovplyvnený sezónnymi výkyvmi možno viac ako ktorýkoľvek iný sektor. Väčšina našich klientov má problémy s presným predpovedaním potreby externých alebo zahraničných pracovníkov počas vrchnej sezóny, najmä v prvých mesiacoch roka.",
+        "V dôsledku toho mnohé rezortné hotely, hotely a reštaurácie robia rozhodnutia o nábore na poslednú chvíľu, čo vedie k náhlemu nárastu dopytu po pracovníkoch. Bohužiaľ, trh často nedokáže na tento dopyt okamžite reagovať. Od okamihu podpisu zmluvy s náborovou agentúrou môže trvať jeden až dva mesiace, kým zahraniční pracovníci prídu na svoje pracoviská. Tento časový rámec zahŕňa hľadanie kandidátov, hodnotenie kvalifikácií, realizáciu pohovorov, spracovanie dokumentov a ďalšie nevyhnutné kroky.",
+        "Aby sme tento problém vyriešili, ponúkame spoľahlivé riešenie, ktoré znižuje riziká spojené s meškaním a dlhými čakacími dobami: outsourcing pracovnej sily."
+      ]
+    },
+    "seasonaldetails": {
+      "title": "Pridelenie pracovníkov",
+      "desc": "Umožňujeme rýchle a jednoduché zamestnanie pracovnej sily pre sezónne projekty alebo práce na dobu určitú. Môžete využiť existujúcu databázu pracovníkov z celej Európy, čo výrazne urýchli náborový proces. Staráme sa o uzatváranie zmlúv o pridelení a preberáme plnú zodpovednosť za vyplácanie miezd a všetky súvisiace administratívne úlohy. Táto služba ponúka praktické riešenie pre naliehavé potreby pracovnej sily, zabezpečujúc flexibilitu a efektivitu pri riadení personálu pre rôzne projekty a sezónne požiadavky.",
+      "btn": "Čítať viac"
+    },
+    "content1": {
+      "title": "Prístup ku kvalifikovaným talentom",
+      "pera": "Získajte prístup k databázi kvalifikovaných, overených profesionálov pripravených splniť potreby vášho podnikania."
+    },
+    "content2": {
+      "title": "Flexibilné riešenia pracovnej sily",
+      "pera": "Uvedomujeme si dôležitosť adaptability a ponúkame riešenia riadenia pracovnej sily prispôsobené vašim prevádzkovým požiadavkám."
+    },
+    "content3": {
+      "title": "Rýchly a bezproblémový nábor",
+      "pera": "Zrýchlite svoj náborový proces s našim zjednodušeným prístupom k hľadaniu, začleňovaniu a riadeniu talentov."
+    }
+  },
+  "solutionconstruction": {
+    "title": "Zamestnávanie stavebných pracovníkov",
+    "description": "Ponúkame širokú škálu kvalifikovaných odborníkov, vrátane armatúr, tesárov, murárov, montérov kovových konštrukcií, pokrývačov a operátorov stavebných strojov.",
+    "constructionarticle": {
+      "title": "Výzvy pri hľadaní stavebných pracovníkov",
+      "boldtext": "Súčasný problém v stavebníctve týkajúci sa nedostatku pracovníkov vyplýva z výrazného nedostatku pracovnej sily. Tento nedostatok brzdí produktivitu, predlžuje termíny projektov a vytvára výzvy pri uspokojovaní dopytu po kvalifikovaných stavebných pracovníkoch.",
+      "peragraphs": [
+        "Európsky trh má podobnú potrebu stavebných pracovníkov, čo sa odráža v početných inzerátoch na voľné stavebné pozície. Spoločnosti po celom kontinente sa často stretávajú s ťažkosťami pri hľadaní oddaných a kvalifikovaných pracovníkov na uspokojenie tohto dopytu, čo môže viesť k problémom pri nábore a potenciálnym oneskoreniam pri dokončovaní projektov.",
+        "Ako agentúra na nábor zahraničných pracovníkov ponúkame niekoľko spôsobov, ako vám pomôcť. Po prvé, využívame našu rozsiahlu sieť kvalifikovaných zahraničných pracovníkov, ktorí sú pripravení pracovať po celej Európe. Spájaním týchto pracovníkov so spoločnosťami, ktorí ich potrebujú, pomáhame preklenúť medzeru medzi ponukou a dopytom po pracovnej sile. Okrem toho poskytujeme podporu pri spĺňaní právnych požiadaviek na zamestnávanie zahraničných pracovníkov, čím zabezpečujeme hladký a súladný proces náboru pre spoločnosti aj pracovníkov.",
+        "Naším riešením na riešenie týchto výziev je sprostredkovanie zamestnania."
+      ]
+    },
+    "constructiondetails": {
+      "title": "Sprostredkovanie zamestnania",
+      "desc": "Ponúkaním služby sprostredkovania zamestnania pomáhame spoločnostiam získať prístup k fondu kvalifikovaných pracovníkov, čím riešime výzvy, s ktorými sa stretávate pri hľadaní kvalifikovanej pracovnej sily. Uľahčením zamestnávania zahraničných pracovníkov a poskytnutím komplexných služieb zamestnávania zohrávame kľúčovú úlohu pri uspokojovaní potrieb stavebného priemyslu na pracovnú silu v celej Európe.",
+      "btn": "Čítať viac"
+    },
+    "content1": {
+      "title": "Prístup ku kvalifikovaným talentom",
+      "pera": "Získajte prístup k fondu kvalifikovaných, overených profesionálov pripravených uspokojiť potreby vášho podnikania."
+    },
+    "content2": {
+      "title": "Flexibilné riešenia pracovnej sily",
+      "pera": "Uvedomujeme si dôležitosť prispôsobivosti a ponúkame riešenia riadenia pracovnej sily prispôsobené vašim prevádzkovým požiadavkám."
+    },
+    "content3": {
+      "title": "Rýchly a bezproblémový nábor",
+      "pera": "Zrýchlite svoj náborový proces s našim zjednodušeným prístupom k hľadaniu, začleňovaniu a riadeniu talentov."
+    }
+  },
+
+  "solutionmedical": {
+    "title": "Zamestnávanie zdravotníckych pracovníkov",
+    "description": "Lekári, zdravotné sestry, technici, farmaceuti a ďalší zdravotnícki odborníci – pomôžeme vám s náborom pre všetky zdravotnícke pozície.",
+    "medicalarticle": {
+      "title": "Výzvy pri hľadaní zdravotníckych pracovníkov",
+      "boldtext": "Nedostatok kvalifikovaného zdravotníckeho personálu, najmä v špecializovaných odboroch, je zložitý problém, ktorému čelí mnoho zdravotníckych zariadení po celej Európe.",
+      "peragraphs": [
+        "Zdravotnícky sektor v Európe čelí podobným výzvam ako iné regióny pri hľadaní a udržaní kvalifikovaných pracovníkov. Dopyt po lekároch, sestrách, farmaceutoch a technikoch stále rastie v dôsledku starnutia populácie, pokroku v liečbe a meniacich sa potrieb zdravotnej starostlivosti.",
+        "Dopyt po zdravotníckych profesionáloch naďalej rastie vďaka nárastu obyvateľstva, starnutiu demografickej skupiny a pokroku v medicínskej technológii.",
+        "Zdravotnícky systém Európy sa opiera o verejné aj súkromné inštitúcie, z ktorých každá má svoje personálne potreby. Aj keď je pracovná sila kvalifikovaná, často dochádza k nedostatku v niektorých špecializáciách alebo regiónoch.",
+        "Zdravotnícke zariadenia majú problém presne predpovedať svoje personálne potreby, čo môže viesť k nedostatku zamestnancov v kritických obdobiach a nadmernému zaťaženiu existujúceho personálu."
+      ]
+    },
+    "medicaldetails": {
+      "title": "Mediácia zamestnania",
+      "desc": "Zdravotnícke zariadenia po celej Európe často bojujú s predvídaním personálnych potrieb, čo vedie k nedostatkom počas kritických období. Táto nepredvídateľnosť môže narušiť starostlivosť o pacientov a zaťažiť existujúci personál.",
+      "btn": "Čítaj viac"
+    },
+    "content1": {
+      "title": "Prístup ku kvalifikovaným odborníkom",
+      "pera": "Získajte prístup k databáze kvalifikovaných a overených odborníkov pripravených splniť vaše požiadavky."
+    },
+    "content2": {
+      "title": "Flexibilné pracovné riešenia",
+      "pera": "Ponúkame riešenia pre správu pracovnej sily prispôsobené vašim prevádzkovým potrebám."
+    },
+    "content3": {
+      "title": "Rýchly a bezproblémový nábor",
+      "pera": "Zrýchlite proces náboru vďaka nášmu efektívnemu systému získavania, onboardingu a správy zamestnancov."
+    }
+  },
+  "whyus": {
+    "title": "Prečo my",
+    "description": "Sme personálna agentúra špecializujúca sa na spájanie spoločností so správnymi talentmi.",
+    "article1": {
+      "title": "Jednoduchší a rýchlejší spôsob získania kvalifikovaných kandidátov",
+      "pera": "Ponúkame klientom niekoľko možností poskytovania zamestnancov (napr. dočasné zamestnávanie), čím im poskytujeme rýchlejší a flexibilnejší spôsob náboru."
+    },
+    "article2": {
+      "title": "Spôsob, ako ušetriť čas a peniaze",
+      "pera": "recruitment4U preberá všetky administratívne, právne a finančné povinnosti, čím šetrí čas vám a vašim zamestnancom."
+    },
+    "article3": {
+      "title": "Obrovská databáza kandidátov",
+      "pera": "Môžeme rýchlo splniť vaše požiadavky na zamestnancov vďaka našej širokej škále kandidátov s rôznymi profilmi a zručnosťami."
+    },
+    "article4": {
+      "title": "Skúsenosti a zavedené procesy",
+      "pera": "Vďaka rokom práce v agentúre máme dobre definované procesy, skúsenosti s náborom miestnych a zahraničných pracovníkov, kancelárie po celej Chorvátsku a viditeľnosť v regióne."
+    }
+  },
+
+  "behindthebrand": {
+    "title": "Globálna IT nábor a personálne zabezpečenie pre rýchlo rastúce spoločnosti",
+    "description": "Poskytujeme našim klientom exkluzívne náborové služby, ktoré pomáhajú podnikom rásť a prosperovať",
+    "btn": " Objednajte si hovor",
+    "content1": {
+      "title": "Naša misia",
+      "pera": "Spojiť skvelé spoločnosti s ešte lepšími talentmi."
+    },
+    "content2": {
+      "title": "Naša vízia",
+      "pera": "Byť popredným partnerom, s ktorým sa klienti a kandidáti vždy rozhodnú spojiť."
+    },
+    "content3": {
+      "title": "Náš prístup",
+      "pera1": "Sme tím zameraný na ciele, kde je kultúra dôležitejšia ako formálne procesy.",
+      "pera2": "Sme tím zameraný na ciele, kde je kultúra dôležitejšia ako formálne procesy.",
+      "pera3": "Vybudovali sme pracovné prostredie, ktoré podporuje rast a skutočný tímového ducha. Niet nič uspokojujúcejšie ako učiť sa a oslavovať úspechy spolu!"
+    },
+    "teamsction": {
+      "title": "Ste pripravení na ďalšiu úroveň? Pripojte sa k nám",
+      "team1": {
+        "name": "Manažér predaja",
+        "description": "Vedie predajný tím, priamo spravuje predaj, úzko spolupracuje s vedením náboru pri tvorbe stratégie.",
+        "btnText": "Urobte prvý krok"
+      },
+      "team2": {
+        "name": "Senior náborový konzultant",
+        "description": "Skúsený náborár s vyššou úrovňou zodpovednosti, vrátane mentorovania juniorov a práce s kľúčovými klientmi.",
+        "btnText": "Ozvite sa svojej novej práci"
+      },
+      "team3": {
+        "name": "Predajný zástupca",
+        "description": "Hľadá a zabezpečuje nových klientov, propaguje služby a vyjednáva zmluvy. Zameriava sa na generovanie potenciálnych zákazníkov a rast agentúry.",
+        "btnText": "Krok do vašej budúcnosti"
+      },
+      "team4": {
+        "name": "Operačný manažér",
+        "description": "Spravuje interné procesy, nástroje, dodržiavanie predpisov a efektivitu pracovných postupov.",
+        "btnText": "Krok do vašej budúcnosti"
+      },
+      "team5": {
+        "name": "Manažér kancelárie",
+        "position": "Riaditeľ operácií",
+        "description": "Riadi každodenné operácie konkrétnej lokality. Dohliada na predaj, nábor a administratívu.",
+        "btnText": "Začnite tu"
+      },
+      "team6": {
+        "name": "Výkonný riaditeľ",
+        "description": "Určuje celkovú obchodnú stratégiu a víziu. Zabezpečuje ziskovosť agentúry.",
+        "btnText": "Pridajte chuť do pracovného života"
+      },
+      "team7": {
+        "name": "Administratívny pracovník",
+        "description": "Spravuje dokumentáciu, podáva žiadosti o pracovné povolenia a stará sa o komunikáciu s klientmi po predaji.",
+        "btnText": "Navrhnite si budúcnosť"
+      },
+      "team8": {
+        "name": "Manažér marketingu",
+        "description": "Propaguje značku a služby agentúry prostredníctvom kampaní a sociálnych médií.",
+        "btnText": "Ukážte svoj talent"
+      },
+      "team9": {
+        "name": "HR manažér",
+        "description": "Riadi interný nábor, školenia a rozvoj zamestnancov.",
+        "btnText": "Získajte svoju rolu"
+      },
+      "team10": {
+        "name": "Pracovník podpory po predaji",
+        "description": "Úzko spolupracuje s predajnými tímami a tímami podpory v zdrojových krajinách, aby zabezpečil hladký príchod pracovníkov a podporu klientov.",
+        "btnText": "Radi vás spoznáme"
+      },
+      "teamdetails1": {
+        "title": "Manažér predaja",
+        "subtitle": "Vedúca úloha so strategickým dopadom",
+        "title1": "Prehľad úlohy",
+        "desc1": "V dnešnom rýchlom podnikateľskom prostredí je predaj viac než len uzatváranie obchodov; ide o podporu transformácie, zmocnenie ľudí a budovanie udržateľnej cesty k rastu. Tu sa úloha Manažéra predaja stáva nielen dôležitou, ale aj nevyhnutnou.",
+        "desc2": "Ako Manažér predaja nebudete len riadiť tím, ale povediete ho so stratégiou, víziou a výsledkovo orientovaným prístupom. Táto úloha spája vedenie a priame zapojenie, čím vám poskytuje príležitosť dozerať na vysokovýkonný predajný tím a zároveň priamo riadiť kľúčové účty a veľké obchody.",
+        "desc3": "Budete úzko spolupracovať s vedúcimi pri nábore, aby ste zosúladili predajný prístup s širšími organizačnými cieľmi, čím zabezpečíte, že každý úsilek významne prispieva k úspechu spoločnosti.",
+        "title2": "Čo túto úlohu odlišuje",
+        "desc4": "To, čo túto úlohu odlišuje, je jedinečná kombinácia strategického plánovania a vedenia ľudí. Manažéri predaja sú v popredí generovania príjmov, zodpovední za vývoj a implementáciu inovatívnych stratégií, mentorovanie členov tímu a sledovanie trendov v odvetví.",
+        "desc5": "Váš pohľad na pohyby na trhu a aktivity konkurentov zohrá kľúčovú rolu pri formovaní prístupu spoločnosti. Ideálni kandidáti prinesú overené skúsenosti v predaji alebo rozvoji podnikania, silné komunikačné a vyjednávacie schopnosti a ostré analytické myslenie. Skúsenosti s vedením, najmä v oblasti náboru alebo služieb, budú veľkým plusom.",
+        "title3": "Odměny a výhody",
+        "desc6": "Okrem zodpovedností ponúka úloha Manažéra predaja významné odmeny. Je to kariérne definujúca príležitosť s jasnou cestou k výkonnému rastu, bonusy založené na výkone a šancou ovplyvniť kľúčové obchodné rozhodnutia.",
+        "desc7": "Budete súčasťou živého, spolupracujúceho tímu, kde sú vaše nápady ocenené a váš vplyv viditeľný. Ak ste pripravení viesť s cieľom, iniciovať zmenu a posunúť svoju kariéru na ďalšiu úroveň, toto môže byť dokonalá voľba.",
+        "btnApply": "Prihláste sa. Zažiarte. Uspejte"
+      },
+      "teamdetails2": {
+        "title": "Senior Konzultant pre Nábor",
+        "subtitle": "Strategická úloha pri nábore talentov",
+        "title1": "Prehľad úlohy",
+        "desc1": "V dynamickom svete náboru talentov vystupuje úloha senior konzultanta pre nábor ako strategický pilier každej vysoko výkonnej náborovej tímu. Na rozdiel od junior náborárov, ktorí sa zameriavajú primárne na vyhľadávanie a výber kandidátov, senior konzultanti pôsobia na vyššej úrovni, prinášajúc roky priemyselných skúseností, strategické postrehy a vodcovské schopnosti.",
+        "desc2": "Riadia celý náborový cyklus s precíznosťou, zároveň mentorujú juniorných pracovníkov, spravujú kľúčových klientov a poháňajú snahy o rozvoj podnikania.",
+        "title2": "Dvojitá úloha senior konzultanta",
+        "desc3": "Senior konzultant pre nábor má dvojitú úlohu: top náborára a dôveryhodného poradcu. Sú kľúčoví pri tvorbe náborových stratégií, prispôsobovaní náborových snáh trhovým trendom a zabezpečovaní, že agentúra neustále dodáva vysokokvalitné talenty.",
+        "desc4": "Ich zodpovednosti presahujú umiestnenia – pestujú dlhodobé vzťahy s klientmi, poskytujú usmernenia menej skúseným členom tímu a výrazne prispievajú k rastu agentúry. Od vyjednávania zmlúv po identifikáciu nových príležitostí na spoluprácu, ich vplyv je okamžitý aj dlhodobý.",
+        "title3": "Čo odlišuje túto úlohu",
+        "desc5": "Čo naozaj odlišuje senior konzultanta pre nábor, je kombinácia emocionálnej inteligencie, odolnosti a hlbokých znalostí trhu. Majú silné medziľudské a komunikačné schopnosti, čo im umožňuje budovať dôveru u kandidátov aj klientov.",
+        "desc6": "Ich schopnosť predvídať náborové potreby a ponúkať šité na mieru riešenia z nich robí neoceniteľné aktíva pre každú organizáciu. Nakoniec, senior konzultant pre nábor je viac než len skúsený náborár; je to strategický partner, ktorý mení proces náboru na konkurenčnú výhodu.",
+        "title4": "Ste pripravení posunúť svoju kariéru v oblasti náboru na vyššiu úroveň?",
+        "desc7": "Hľadáme skúsených, zapálených a strategicky zmýšľajúcich jednotlivcov, ktorí sa pridajú k nášmu tímu ako senior konzultanti pre nábor. Ak vás baví mentorovať, riadiť kľúčové účty a mať skutočný vplyv, táto pozícia je pre vás.",
+        "btnApply": "Aplikuj. Žiari. Uspiej"
+      },
+      "teamdetails3": {
+        "title": "Obchodný Zástupca",
+        "subtitle": "Vplyvná úloha pri raste podnikania",
+        "title1": "Prehľad úlohy",
+        "desc1": "Ste bojovník s vášňou pre ľudí, túžbou po úspechu a sebavedomím premeniť „možno“ na „áno“? Potom by ste mohli byť obchodným zástupcom, ktorého hľadáme! V našej náborovej agentúre nielen obsadzujeme pozície, ale budujeme mosty medzi výnimočnými talentmi a rastúcimi spoločnosťami. A teraz sme pripravení rásť, s vašou pomocou.",
+        "desc2": "V tejto vplyvnej úlohe budete v prvej línii našich expanzívnych snáh. Vaše hlavné zodpovednosti budú zahŕňať hľadanie a zabezpečovanie nových klientov, propagáciu celej škály náborových a HR riešení a vyjednávanie zmlúv, ktoré prinášajú hodnotu všetkým stranám. Sústrediť sa budete na generovanie potenciálnych zákazníkov, studené a teplé kontakty, prieskum trhu a konverzné stratégie, ktoré povýšia našu značku a podporia udržateľný rast.",
+        "title2": "Budovanie strategických partnerstiev",
+        "desc3": "Ale toto je viac než len predaj, je to o stratégii, inováciách a budovaní dlhodobých partnerstiev. Budete úzko spolupracovať s našimi internými tímami, aby ste zaistili, že klienti dostanú nielen kandidátov, ale riešenia, ktoré transformujú ich pracovnú silu. Či už ide o startup hľadajúci svojho prvého zamestnanca alebo korporáciu rýchlo expandujúcu, budete tým, kto otvára dvere a vytvára príležitosti.",
+        "title3": "Hľadáme niekoho, kto je:",
+        "desc4": {
+          "items": [
+            "Sebavedomý, presvedčivý a výborný komunikátor",
+            "Strategický v prístupe a kreatívny v realizácii",
+            "Pohodlný s používaním CRM nástrojov a predajnej analýzy na optimalizáciu výkonu",
+            "Motivovaný cieľmi, KPI a vzrušením z dosahovania výsledkov"
+          ]
+        },
+        "title4": "Prečo sa k nám pridať?",
+        "desc5": "Budete súčasťou podporujúceho, dynamického a tímového prostredia, ktoré si váži váš hlas a nápady. Ponúkame nepretržité školenie, stimuly za výkon a príležitosť vytvoriť si vlastný príbeh úspechu. Ak hľadáte kariéru, kde vaše príspevky záležia a váš potenciál rastu je neobmedzený, toto je to pravé miesto.",
+        "desc6": "Ste pripravení predávať službu, v ktorú naozaj veríte? Ste pripravení pridať sa k tímu, ktorý oslavuje vaše úspechy?",
+        "btnApply": "Aplikuj. Žiari. Uspiej"
+      },
+      "teamdetails4": {
+        "title": "Manažér náborových operácií",
+        "subtitle": "Vysokovýkonná úloha pri riadení obchodného rastu",
+        "title1": "Prehľad úlohy",
+        "desc1": "V rýchlom svete náboru úspech neprichádza len z nájdenia skvelých talentov, ale aj z existencie správnych systémov, ktoré podporujú celý proces náboru. Preto hľadáme Manažéra náborových operácií, ktorý je nadšený pre dokonalosť procesov, rozhodovanie založené na dátach a operačný dopad.",
+        "title2": "Prečo je táto úloha dôležitá",
+        "desc2": "Ako náš Manažér náborových operácií budete motorom našej funkcie získavania talentov. Budete viesť správu interných náborových nástrojov, zefektívňovanie procesov a zabezpečenie plnej súladnosti s miestnymi a medzinárodnými náborovými predpismi. Inými slovami, budete „lepidlom“, ktoré drží všetko pohromade, a stratégom, ktorý nás posúva vpred.",
+        "desc3": "Toto nie je len administratívna úloha. Je to kľúčová pozícia, ktorá priamo ovplyvňuje kvalitu, rýchlosť a efektivitu nášho náborového procesu.",
+        "title3": "Budovanie strategických partnerstiev",
+        "desc4": "Ale toto je viac než len predaj, je to o stratégii, inováciách a budovaní dlhodobých partnerstiev. Budete úzko spolupracovať s našimi internými tímami, aby ste zaistili, že klienti dostanú nielen kandidátov, ale riešenia, ktoré transformujú ich pracovnú silu. Či už ide o startup hľadajúceho svojho prvého zamestnanca alebo podnik, ktorý rýchlo rastie, budete tým, kto otvára dvere a vytvára príležitosti.",
+        "title4": "Čo budete robiť",
+        "list1": {
+          "items": [
+            "Vlastniť a optimalizovať všetky náborové systémy, vrátane ATS, HRIS integrácií a reportovacích panelov.",
+            "Navrhovať, dokumentovať a zlepšovať pracovné postupy pre získavanie, výber, pohovory a onboarding.",
+            "Zabezpečiť, aby naše náborové postupy zostali v súlade so zákonnými normami a etickými náborovými politikami.",
+            "Analyzovať náborové metriky a poskytovať použiteľné poznatky pre lepšie rozhodovanie.",
+            "Implementovať nové nástroje a technológie na zlepšenie skúseností kandidátov a náborárov."
+          ]
+        },
+        "title5": "Čo prinášate",
+        "list2": {
+          "items": [
+            "Overené skúsenosti v náborových operáciách, získavaní talentov alebo riadení HR projektov.",
+            "Silné pochopenie postupov súladnosti, návrhu procesov a náborových metrík.",
+            "Technické zručnosti a oboznámenosť s modernými náborovými nástrojmi ako Greenhouse, Lever, Workday alebo BambooHR.",
+            "Proaktívne myslenie, pozornosť k detailom a schopnosť myslieť kriticky aj strategicky."
+          ]
+        },
+        "title6": "Prečo sa k nám pridať?",
+        "desc5": "V Recruitment 4U veríme, že ľudia sú srdcom každého skvelého podnikania, rovnako ako systém, ktorý ich pritiahne. Pridáte sa k živému, pokrokovému tímu, kde sa vaše nápady cenia, váš rast podporuje a vaša práca má viditeľný dopad.",
+        "desc6": "Toto je vaša šanca formovať budúcnosť toho, ako náborujeme nielen pre dnešok, ale aj pre to, čo príde.",
+        "btnApply": "Aplikujte. Žiariť. Uspejte"
+      },
+      "teamdetails5": {
+        "title": "Vedúci pobočky / Office manažér",
+        "subtitle": "Strategická úloha pri získavaní talentov",
+        "title1": "Prehľad pozície",
+        "desc1": "Ste pripravený viesť s cieľom a vášňou? Hľadáme dynamického a skúseného vedúceho pobočky / office manažéra, ktorý sa pripojí k nášmu tímu a bude dohliadať na každodennú prevádzku jednej z našich pobočiek. Ide o kľúčovú riadiacu pozíciu, ktorá si vyžaduje strategické myslenie, praktický prístup a silné zameranie na výsledky. Ako vedúci pobočky budete zodpovedný za dosahovanie predajných cieľov, riadenie náborových aktivít a zabezpečenie plynulého chodu administratívnych procesov. Budete centrom diania – motivovať tím, budovať vzťahy so zákazníkmi a zvyšovať výkonnosť. Hľadáme niekoho, kto sa vyzná v rýchlom prostredí, má výborné komunikačné a organizačné schopnosti a preukázané skúsenosti na manažérskej pozícii, ideálne v oblasti náboru, HR alebo obchodu. Ponúkame konkurencieschopný plat, bonusy podľa výkonu a podporujúcu firemnú kultúru, ktorá oceňuje váš prínos a podporuje profesijný rast. Ak chcete viesť, rásť a mať vplyv – chceme o vás počuť.",
+        "title2": "Ste pripravený na ďalší krok vo svojej kariére?",
+        "desc2": "Prihláste sa teraz a budujme úspech spoločne.",
+        "btnApply": "Prihlásiť sa. Zažiariť. Uspeť."
+      },
+      "teamdetails6": {
+        "title": "Príležitosť pre riaditeľa / generálneho riaditeľa",
+        "subtitle": "Vedenie s stratégym dopadom",
+        "title1": "Prehľad úlohy",
+        "desc1": "Ste skúsený líder s vášňou pre poháňanie rastu a formovanie budúcnosti organizácie? Hľadáme riaditeľa / generálneho riaditeľa, ktorý sa pripojí k progresívnej agentúre, kde vedenie nie je len o dohľade nad operáciami, ale o inšpirácii pokroku.",
+        "desc2": "V tejto kľúčovej úlohe budete zodpovední za stanovenie celkovej obchodnej stratégie a vízie, aby agentúra nielen prosperovala dnes, ale aj sa rozvíjala na budúcnosť. Budete úzko spolupracovať s kľúčovými zainteresovanými stranami na zarovnaní cieľov spoločnosti, na čele inovácií a poháňaní ziskovosti. Vaše strategické rozhodnutia budú priamo ovplyvňovať smerovanie, kultúru a pozíciu spoločnosti na trhu.",
+        "desc3": "Ideálny kandidát prinesie silné zázemie vo výkonnom vedení, operačnom dohľade a rozvoji tímu. Nevyhnutná je preukázateľná história úspešného vedenia organizácií cez rast a transformáciu. Mali by ste byť schopní riešiť zložité výzvy, identifikovať nové trhové príležitosti a podporovať prostredie zamerané na výsledky.",
+        "title2": "Ste pripravení urobiť ďalší krok vo svojej kariére?",
+        "desc4": "Vstup do tejto agentúry znamená vkročenie do úlohy, kde na vašom vedení skutočne záleží. Budete mať autonómiu prijímať rozhodnutia na vysokej úrovni, pričom vás bude podporovať dynamický tím, ktorý zdieľa vašu víziu excelentnosti. Ak vás motivuje vplyv, výzva a príležitosť viesť z čela, táto úloha je pre vás.",
+        "btnApply": "Aplikujte. Žiariť. Uspejte"
+      },
+      "teamdetails7": {
+        "title": "Administrátor náboru / Kancelársky administrátor",
+        "subtitle": "Strategická úloha pri nábore talentov",
+        "title1": "Prehľad úlohy",
+        "desc1": "Ste organizovaní, orientovaní na detaily a vášniví v pomáhaní ostatným nájsť správne príležitosti? Hľadáme Administrátora náboru / Kancelárskeho administrátora, ktorý sa pridá k nášmu rýchlemu tímu zameranému na klientov.",
+        "desc2": "V tejto úlohe budete chrbticou našich náborových operácií, budete spravovať dôležitú dokumentáciu, podávať žiadosti o pracovné povolenia a zabezpečovať plynulú komunikáciu po predaji s našimi cenenými klientmi. Nebudete sa zaoberať len papierovou prácou; budete priamo prispievať k zmenám v životoch ľudí prostredníctvom umiestnení a podporovať bezproblémový zážitok, ktorý sľubujeme zamestnávateľom aj kandidátom.",
+        "desc3": "Už od prvého dňa budete hrať kľúčovú úlohu pri udržiavaní súladu, zabezpečovaní včasných podaní a udržiavaní každého súboru v dokonalom poriadku. Budete komunikovať s klientmi, agentúrami a vládnymi orgánmi, zanechávajúc svoju stopu ako človek, ktorý zabezpečuje, že žiadny detail nie je prehliadnutý. Vaša efektívnosť a spoľahlivosť budú priamo ovplyvňovať rýchlosť a úspech našich umiestnení.",
+        "desc4": "Nehľadáme len niekoho, kto dokáže sledovať kontrolný zoznam. Chceme niekoho, kto myslí dva kroky dopredu, všimne si potenciálne oneskorenia skôr, ako sa vyskytnú, a prinesie riešenia pre každú výzvu. Ak ste typ človeka, ktorý má radosť z odškrtávania úloh zo zoznamu a prosperuje v štruktúrovanom prostredí, táto úloha sa vám bude páčiť.",
+        "desc5": "Okrem administratívnych úloh bude mať váš prínos skutočný ľudský dopad, zabezpečí plynulé umiestnenie kandidátov, informovaných a spokojných zamestnávateľov a procesy, ktoré fungujú ako hodinky. Budete kritickou súčasťou tímu riadeného misiou, ktorý si cení komunikáciu, excelentnosť a zodpovednosť.",
+        "desc6": "Ak ste prijatí prevziať zodpovednosť za zmysluplnú úlohu, rásť v podpornom tíme a mať skutočný vplyv v náborovom priemysle, toto je vaša šanca.",
+        "title2": "Prihláste sa teraz a poďme spolu stavať príbehy úspechu!",
+        "btnApply": "Prihláste sa. Zážite. Uspete"
+      },
+      "teamdetails8": {
+        "title": "Marketingový manažér",
+        "subtitle": "Obchodný rozvoj",
+        "title1": "Prehľad roly",
+        "desc1": "Ste stratég s kreatívnym nadaním a digitálnymi inováciami? Milujete príbehy značiek a viete, ako vytvoriť kampane, ktoré vyvolávajú zapojenie a prinášajú výsledky? Ak áno, máme pre vás perfektnú príležitosť!",
+        "desc2": "Momentálne hľadáme dynamického Marketingového manažéra, ktorý bude v srdci rastu našej agentúry. Táto rola nie je len o správe sociálnych médií; je o propagácii našej značky, formovaní verejnej percepcie a vedení vplyvných marketingových iniciatív, ktoré stavia naše služby do popredia.",
+        "desc3": "Ako náš Marketingový manažér budete vyvíjať a realizovať integrované marketingové kampane, dohliadať na tvorbu obsahu na rôznych platformách, spolupracovať s internými tímami a analyzovať výkonnosť, aby ste zdokonalili stratégie. Vaša práca priamo ovplyvní to, ako nás svet vidí a, čo je dôležitejšie, ako naše služby oslovujú a rezonujú s klientmi a kandidátmi.",
+        "desc4": "Toto je vaša šanca realizovať odvážne nápady v rýchlom, podporujúcom prostredí, kde sa inovácie podporujú a výsledky oslavujú. Ak ste motivovaný profesionál, ktorý rastie prostredníctvom výziev a kreativity, radi vás počujeme.",
+        "title2": "Ste pripravení optimalizovať budúcnosť náboru?",
+        "btnApply": "Aplikujte. Žiariť. Uspejte"
+      },
+      "teamdetails9": {
+        "title": "HR manažér",
+        "subtitle": "Manažér ľudských zdrojov, HR",
+        "title1": "Prehľad roly",
+        "desc1": "Ste nadšení pre ľudí, rozvoj talentov a vytváranie prosperujúcej pracovnej kultúry? Hľadáme proaktívneho a skúseného HR manažéra, ktorý sa pripojí k nášmu tímu a povedie interný nábor, interné školenia a celkovú stratégiu rozvoja zamestnancov.",
+        "desc2": "Ako HR manažér budete hrať kľúčovú úlohu pri formovaní budúcnosti našej pracovnej sily. Budete riadiť celý proces náboru – od identifikácie potrieb po začlenenie najlepších talentov. Vaša odbornosť pomôže vytvoriť prostredie, v ktorom sú zamestnanci motivovaní, dobre vyškolení a neustále sa rozvíjajú. Či už pôjde o návrh prispôsobených školenia alebo rozvoj kariérnych ciest, budete v srdci budovania dynamického a zapojeného tímu.",
+        "desc3": "V tejto roli nebudete len vypĺňať pozície, ale budete budovať kariéry. Vaša schopnosť spájať sa s ľuďmi, rozumieť ich silným stránkam a zosúladiť ich so správnymi príležitosťami bude kľúčová pre náš pokračujúci úspech. Budete tiež dôveryhodným poradcom vedúcich oddelení, aby stratégie HR boli v súlade s našimi širšími obchodnými cieľmi.",
+        "desc4": "Hľadáme niekoho, kto má strategickú víziu aj praktický prístup. Mali by ste byť schopní riešiť otázky pracovných vzťahov, aktualizovať politiky HR a viesť školenia. Ak máte radi riešenie problémov, posilňovanie druhých a podporu pozitívnej pracovnej kultúry, tu uspejete.",
+        "desc5": "Toto nie je len práca, ale príležitosť pre vedenie, ktorá vám umožní formovať organizáciu zvnútra. Budete obklopení podporujúcim vedúcim tímom, kolaboratívnym pracovným prostredím a nástrojmi potrebnými na dosiahnutie zmysluplných zmien.",
+        "btnApply": "Aplikujte. Žiariť. Uspejte"
+      },
+      "teamdetails10": {
+        "title": "Referent podpory po predaji",
+        "subtitle": "služby po predaji poskytované spoločnosťou svojim zákazníkom",
+        "title1": "Prehľad úlohy",
+        "desc1": "V dnešnom rýchlom svete náboru je úloha Referenta podpory po predaji kľúčová pre zabezpečenie bezproblémového zážitku pre pracovníkov aj klientov. Ako dôležitý spojovací článok medzi predajnými a podpornými tímami v zdrojových krajinách sa táto pozícia zameriava na koordináciu hladkého príchodu pracovníkov a poskytovanie výnimočnej pokračujúcej podpory našim ceneným klientom. Vaše odhodlanie pomáha budovať dôveru a spokojnosť, čím sa nábor mení na dlhodobé partnerstvo, nielen na transakciu.",
+        "desc2": "Táto úloha vyžaduje vynikajúce komunikačné schopnosti a kultúrnu citlivosť, pretože budete spolupracovať s rôznorodými tímami a jednotlivcami v rôznych krajinách. Budete riadiť očakávania, riešiť výzvy a poskytovať aktuálne informácie, aby ste zaistili, že všetci zúčastnení sa počas celého procesu cítia informovaní a podporovaní. Vaše úsilie priamo ovplyvní pozitívny zážitok pracovníkov, ktorí sa usadzujú v nových prostrediach, a klientov, ktorí dostávajú potrebný talent.",
+        "desc3": "Okrem toho Referent podpory po predaji hrá strategickú úlohu pri identifikovaní oblastí na zlepšenie v rámci procesu po umiestnení. Zhromažďovaním spätnej väzby a spoluprácou s internými tímami pomáhate formovať politiky a riešenia, ktoré zvyšujú efektivitu a spokojnosť. Váš pohľad zabezpečuje, že náborový proces nekončí umiestnením, ale pokračuje silným systémom podpory, ktorý podporuje udržanie a rast.",
+        "desc4": "Ak ste orientovaní na detaily, proaktívni a vášniví v starostlivosti o klientov, je toto pre vás perfektná príležitosť na prosperovanie v dynamickom prostredí. Úzkou spoluprácou s medzifunkčnými tímami budete hrať kľúčovú úlohu pri rýchlom riešení problémov, zlepšovaní integrácie pracovníkov a udržiavaní silných vzťahov s klientmi.",
+        "desc5": "Toto nie je len práca, je to príležitosť pre vedenie, ktorá formuje organizáciu zvnútra. Budete obklopení podporným vedúcim tímom, spolupracujúcim pracovným prostredím a nástrojmi, ktoré potrebujete na dosiahnutie zmysluplných zmien.",
+        "btnApply": "Prihláste sa. Žiariť. Uspejte"
+      },
+      "applicationpopup": {
+        "title": "Pripravení zapôsobiť?",
+        "subtitle1": "Pošlite svoj životopis na e-mail",
+        "subtitle2": "s požadovanou pozíciou v predmete správy.",
+        "desc1": "Motivačný list nám pomáha pochopiť, čo vás robí výnimočnými!",
+        "desc2": "Odoslaním žiadosti súhlasíte s uchovávaním vašich údajov po dobu až 24 mesiacov v súlade s právnymi predpismi EÚ o ochrane údajov.",
+        "btn": "Rozumiem!"
+      }
+    },
+
+    "articlesection": {
+      "title": "Čítanie o nábore. Obnovené. Spresnené.",
+      "value1": {
+        "title": "Ktorú národnosť by ste mali uprednostniť, keď myslíte mimo Európy?"
+      },
+      "value2": {
+        "title": "Mali by ste sa spoliehať na agentúru, ktorá si účtuje vysokú sumu? Veci, ktoré treba zvážiť pred výberom náborového partnera na vybudovanie skvelého tímu v Európe."
+      },
+      "value3": {
+        "title": "Ako rýchlo môže Recruitment-4u priviesť zahraničných pracovníkov do Európy? A ako veľmi môžeme skutočne ovplyvniť lehotu na schválenie víza?"
+      }
+    }
+  },
+  "career": {
+    "tag": "Dôveryhodná náborová agentúra",
+    "titleh1": "Začnite svoju",
+    "titleh2": "Vysnívanú kariéru",
+    "paragraph": "Vaša vysnívaná kariéra začína tu. Spájame výnimočné talenty s výnimočnými príležitosťami v globálnych odvetviach. Nechajte nás viesť vás k dokonalej pracovnej pozícii.",
+    "stats1": "Umiestnení kandidáti",
+    "stats2": "Obsluhované krajiny",
+    "stats3": "Partnerské spoločnosti",
+    "jobsectiontitle": "Prečo si vybrať nás?",
+    "listcate1": "Personalizované kariérne párovanie",
+    "listcate2": "Globálne príležitosti",
+    "listcate3": "Odborné usmernenia v priemysle",
+    "listcate4": "Kompletná podpora od začiatku do konca",
+    "botton1": "Začnite svoju cestu",
+    "botton2": "Nájdite vysnívanú prácu",
+    "botton3": "Kariérne poradenstvo",
+    "sectionh1": "Nájdite svoju",
+    "sectionh2": "Vysnívanú kariéru",
+    "sectionp": "Objavte vzrušujúce príležitosti, ktoré zodpovedajú vašim schopnostiam a ambíciám. Pridajte sa k tisícom úspešných kandidátov, ktorí si našli ideálne miesto vďaka nám.",
+    "sectiontab1": "Všetky práce",
+    "sectiontab2": "Všeobecný pracovník",
+    "sectiontab3": "Administratívny manažér",
+    "sectionptab1": "Prezrite si všetky dostupné pracovné príležitosti v rôznych odvetviach a lokalitách.",
+    "sectionptab2": "Praktické role vyžadujúce technické zručnosti a skúsenosti v stavebníctve, výrobe a remeslách.",
+    "sectionptab3": "Prémiové príležitosti s konkurencieschopnými balíkmi a vynikajúcim kariérnym rastom.",
+    "notFound": "Nenašli sa žiadne pracovné pozície",
+    "notFoundp": "V tejto kategórii momentálne nie sú dostupné pracovné pozície. Skúste to neskôr alebo si pozrite iné kategórie."
+  },
+  "recruitmentcard": {
+    "title": "Nábor",
+    "desc1": "Optimalizujte svoj čas a zdroje s našimi komplexnými náborovými riešeniami.",
+    "desc2": "Nájdite talenty, ktoré potrebujete na pohon rastu firmy.",
+    "buttonText": "Rezervácia hovoru",
+    "ads": "klient",
+    "whatsdo": {
+      "title": "Čo robíme",
+      "card1": {
+        "title": "Nábor zameraný na výsledky",
+        "desc1": "Spravujeme náborový proces od začiatku do konca.",
+        "desc2": "Používame model „platiť za nábor“, kde platíte len za úspešné umiestnenia."
+      },
+      "card2": {
+        "title": "Predplatné riešenia",
+        "desc1": "Využite služby kompletného náboru s flexibilnými predplatnými plánmi.",
+        "desc2": "Prispôsobujeme pracovníkov pre vás globálne podľa vašich potrieb."
+      },
+      "card3": {
+        "title": "Outsourcing náborového procesu (RPO)",
+        "desc1": "Outsourcujte časť alebo celý váš náborový proces na zjednodušenie náborových operácií."
+      }
+    },
+    "benefits": {
+      "title": "Výhody",
+      "benefit1": {
+        "title": "Prístup k najlepším talentom",
+        "desc": "Viac ako 130 000 kandidátov v našej databáze s rôznymi schopnosťami."
+      },
+      "benefit2": {
+        "title": "Odbornosť, ktorej môžete dôverovať",
+        "desc": "Vlastná metodika výberu a viac ako 30 náborových kanálov."
+      },
+      "benefit3": {
+        "title": "Transparentný proces",
+        "desc": "Prístup k CRM v reálnom čase na sledovanie náborového procesu."
+      },
+      "benefit4": {
+        "title": "Hlboké poznatky",
+        "desc": "Dôkladné technické pohovory s podrobnými zhrnutiami."
+      },
+      "benefit5": {
+        "title": "Flexibilné platobné možnosti",
+        "desc": "Rôzne tarifné plány a spôsoby platby vrátane kryptomien."
+      },
+      "benefit6": {
+        "title": "Personalizovaná podpora",
+        "desc": "Dedikovaný manažér a náborár pre každého klienta."
+      }
+    },
+    "ourprocess": {
+      "title": "Náš proces",
+      "desc": "Skráťte čas náboru. Poskytneme vám prvých kandidátov do 3-5 dní.",
+      "card1": {
+        "title": "Krok 1: Odoslanie požiadaviek",
+        "time": "(1-3 dni)",
+        "desc": "Poskytnite nám popis práce a požiadavky.",
+        "task": ["Prehľad spoločnosti", "Detaily pozície", "Podpísanie zmluvy"]
+      },
+      "card2": {
+        "title": "Kompletný náborový cyklus",
+        "time": "(1-4 týždne)",
+        "desc": "Budeme vyberať kandidátov podľa vašich požiadaviek.",
+        "task": ["Vyhľadávanie", "Predvýber, Pohovory", "Týždenné aktualizácie"]
+      },
+      "card3": {
+        "title": "Dokončenie náboru",
+        "time": "(4-6 týždňov)",
+        "desc": "Vyberieme najlepších kandidátov podľa vašich požiadaviek.",
+        "task": [
+          "Vyjednávanie ponuky",
+          "Podpísanie NDA s kandidátom",
+          "Prezentácia výsledkov"
+        ]
+      }
+    },
+    "industries": {
+      "title": "Odvetvia, v ktorých pôsobíme"
+    }
+  },
+
+  "hrconsulting": {
+    "title": "HR poradenstvo",
+    "desc1": "Pomáhame firmám budovať výnimočnú reputáciu, ktorá zvyšuje viditeľnosť na trhu a zlepšuje výsledky náboru.",
+    "buttonText": "Objednajte si hovor",
+    "ads": "Dôverujú nám popredné značky",
+    "whatsdo": {
+      "title": "Čo Robíme",
+      "card1": {
+        "title": "Zamestnanecká skúsenosť",
+        "desc1": "Vytvárame presvedčivý obraz vašej organizácie pre budúcich zamestnancov a súčasných pracovníkov.",
+        "desc2": "čo vám umožňuje prilákať a udržať si špičkové talenty."
+      },
+      "card2": {
+        "title": "Zamestnanecká skúsenosť",
+        "desc1": "Spolupracovali sme s viac ako 70 organizáciami na optimalizácii HR operácií, dosahovaní cieľov a zvyšovaní ziskovosti."
+      }
+    },
+    "benefits": {
+      "title": "Výhody",
+      "desc": "Spolupracovali sme s viac ako 70 organizáciami na optimalizácii HR operácií, dosahovaní cieľov a zvyšovaní ziskovosti.",
+      "benefit1": {
+        "title": "HR audit",
+        "desc": "Analyzujeme vaše postupy riadenia personálu, aby sme identifikovali oblasti na zlepšenie."
+      },
+      "benefit2": {
+        "title": "Insights",
+        "desc": "Identifikujte silné a slabé stránky vo vašej HR štruktúre a zostaňte informovaní o trendoch v odvetví."
+      },
+      "benefit3": {
+        "title": "Riešenia",
+        "desc": "Rýchlo vytvorte robustnú HR stratégiu prispôsobenú pre optimálne výsledky."
+      },
+      "benefit4": {
+        "title": "Skúsenosť",
+        "desc": "Odborne plánujte employer branding, aby ste získali a udržali si špičkové talenty."
+      },
+      "benefit5": {
+        "title": "Flexibilné platby",
+        "desc": "Vyberte si z rôznych cenových plánov a platobných možností vrátane bankových prevodov a kryptomien."
+      },
+      "benefit6": {
+        "title": "Efektívny nábor",
+        "desc": "Zlepšite náborové stratégie a podporite snahy o nábor pre lepšie výsledky."
+      }
+    },
+    "ourprocess": {
+      "title": "Náš proces",
+      "desc": "Zrýchlite náborové termíny – počiatočné profily kandidátov dodáme do 3-5 dní.",
+      "card1": {
+        "title": "Povedzte nám o sebe",
+        "task": [
+          "Prehľad spoločnosti",
+          "Analýza značky zamestnávateľa a skúseností",
+          "Unikátna hodnotová ponuka (UVP) pre zamestnancov"
+        ]
+      },
+      "card2": {
+        "title": "My hnacou silou transformácie",
+        "task": [
+          "Identifikujte body kontaktu so zamestnancami",
+          "Zmapujte etapy životného cyklu zamestnanca",
+          "Vytvorte zjednodušené procesy"
+        ]
+      },
+      "card3": {
+        "title": "My dodávame výsledky",
+        "task": [
+          "Implementujte najmodernejšie technológie",
+          "Vykonajte školenia pre lídrov",
+          "Efektívne prezentujte výsledky"
+        ]
+      }
+    },
+    "industries": {
+      "title": "Odvetvia, v ktorých pôsobíme"
+    }
+  },
+
+  "outstaffing": {
+    "title": "Outstaffing",
+    "desc": "Ponúkame outstaffingové riešenia pre rýchlo rastúce podniky, ktoré umožňujú rozšírenie tímu a zvýšenie produktivity.",
+    "buttonText": "Objednajte si hovor",
+    "ads": "Dôverujú nám top značky",
+    "card1": {
+      "title": "Žiadne počiatočné náklady",
+      "desc": "Začnite nábor bez počiatočných nákladov. Náš proces je efektívny, rýchly a bezproblémový. Staráme sa o mzdy a dane, takže sa môžete sústrediť na svoje podnikanie."
+    },
+    "card2": {
+      "title": "Flexibilné riadenie pracovnej sily",
+      "desc": "Či potrebujete dočasný personál na krátkodobé projekty alebo dlhodobých zamestnancov, prispôsobíme sa vašim potrebám. Jednoducho škálujte svoju pracovnú silu."
+    },
+    "card3": {
+      "title": "Dlhodobé partnerstvá",
+      "desc": "Prioritizujeme dlhodobé vzťahy poskytovaním vzdialených pracovníkov, ktorí sa plynulo začlenia do firemnej kultúry vašej spoločnosti."
+    },
+    "whatsdo": {
+      "title": "Čo robíme",
+      "description": "Pomáhame podnikom rýchlo expandovať, zlepšovať operácie, dosahovať ciele a zvyšovať ziskovosť.",
+      "card1": {
+        "title": "Rozšírenie IT tímu",
+        "desc": "Získajte vysoko kvalifikovaných profesionálov na posilnenie vášho tímu a rýchle obsadenie kľúčových rolí."
+      },
+      "card2": {
+        "title": "Projektový outstaffing",
+        "desc": "Získajte vyhradený tím na riadenie projektov od začiatku až po úspešné dokončenie."
+      },
+      "card3": {
+        "title": "Vývoj výskumného a vývojového centra",
+        "desc": "Využite naše odborné znalosti pri zakladaní výskumných a vývojových centier s špičkovými talentami prispôsobenými vašim potrebám."
+      },
+      "card4": {
+        "title": "Budovanie QA tímu",
+        "desc": "Najať jednotlivých QA špecialistov alebo vytvoriť celý tím skúsených profesionálov pre dôkladné zabezpečenie kvality."
+      },
+      "card5": {
+        "title": "Nastavenie centra technickej podpory",
+        "desc": "Pomôžeme vám vybudovať alebo vylepšiť váš oddelenie technickej podpory s kvalifikovaným personálom."
+      }
+    },
+    "industries": {
+      "title": "Odvetvia, v ktorých pôsobíme"
+    },
+    "outstack": {
+      "title": "Stack / Špecializácia",
+      "box1": {
+        "title": "Back end vývoj",
+        "desc": "Špecializujeme sa na robustný backendový vývoj pomocou Node.js, Python, Go a ďalších."
+      },
+      "box2": {
+        "title": "Front end & dizajn",
+        "desc": "Čisté a interaktívne rozhrania pomocou React, TypeScript a moderných UI rámcov."
+      },
+      "box3": {
+        "title": "Mobilný vývoj",
+        "desc": "Špecializujeme sa na vývoj multiplatformových mobilných aplikácií pomocou Flutter, React Native a ďalších."
+      },
+      "box4": {
+        "title": "Vývoj hier",
+        "desc": "Špecializujeme sa na vytváranie pútavých 3D herných zážitkov pomocou technológií Unity a Unreal Engine."
+      },
+      "box5": {
+        "title": "Data Science & Big Data",
+        "desc": "Data scientist, Machine Learning, Quantitative Researcher, AI Researcher, Data Analyst"
+      },
+      "box6": {
+        "title": "Manažment & Analýza",
+        "desc": "Špecializujeme sa na manažérske role ako CTO, IT Project Manager, Product Manager, Business Analyst a Team Lead."
+      },
+      "box7": {
+        "title": "Marketing & HR",
+        "desc": "Špecializujeme sa na Marketing & HR role ako CMO, Content Creator, PPC Specialist, Email Marketer, Traffic Manager, HR Business Partner, Recruiter, HR Director a Copywriter."
+      },
+      "box8": {
+        "title": "QA, Infraštruktúra & Podpora",
+        "desc": "QA Automation, QA Manual, DevOps, Engineer Support Engineer."
+      }
+    },
+    "benefits": {
+      "title": "Výhody",
+      "desc": "Pomáhame viac ako 70 spoločnostiam zlepšiť ich HR procesy, dosiahnuť ciele a získať zisk.",
+      "benefit1": {
+        "title": "HR audit",
+        "desc": "Preskúmanie procesov v oblasti riadenia personálu, určenie potrebných vylepšení"
+      },
+      "benefit2": {
+        "title": "Insighty",
+        "desc": "Zdôraznenie silných a slabých stránok vášho HR oddelenia, informovanie o najnovších trendoch"
+      },
+      "benefit3": {
+        "title": "Riešenia",
+        "desc": "Vytvorte stratégiu HR spoločnosti v čo najkratšom čase a s perfektným výsledkom"
+      },
+      "benefit4": {
+        "title": "Skúsenosti",
+        "desc": "Profesionálne vytvárame stratégiu zamestnávateľskej značky na prilákanie talentov a udržanie zamestnancov."
+      },
+      "benefit5": {
+        "title": "Flexibilné platby",
+        "desc": "Rôzne tarifné plány na výber a rôzne spôsoby platby od bankového prevodu po krypto prevody."
+      },
+      "benefit6": {
+        "title": "Efektívny nábor",
+        "desc": "Môžeme pomôcť v oblasti náboru optimalizáciou náborovej stratégie, ako aj pomocou pri procese náboru"
+      }
+    }
+  },
+  "blogone": {
+    "category": "Nábor",
+    "title": "Ktorú národnosť preferovať pri nábore mimo Európy?",
+    "date": "2. júl 2023",
+    "blog": {
+      "paragraphs": [
+        {
+          "type": "text",
+          "content": "Keď rozširujete hľadanie talentov mimo Európy, zamestnávatelia často čelia ohromujúcemu množstvu globálnych možností. Nie každé medzinárodné rozhodnutie o nábore však prináša rovnakú hodnotu. Určité národnosti sa neustále odlišujú profesionalitou, prispôsobivosťou, technickými zručnosťami a kultúrnym súladom."
+        },
+        {
+          "type": "text",
+          "content": "Títo odborníci nemajú len správne kvalifikácie; prinášajú globálne zmýšľanie, pracovnú morálku a komunikačné schopnosti, ktoré sú v dnešnom digitálnom a dynamickom svete nevyhnutné."
+        },
+        {
+          "type": "text",
+          "content": "Napriek veľkej globálnej databáze talentov však pretrvávajú výzvy. Skutočný problém nie je nájsť životopisy, ale nájsť pracovné talenty so správnou kombináciou technických a mäkkých zručností."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Pracujte múdro s Recruitment-4u: Váš globálny partner v nábore</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Nábor mimo Európy je strategický krok, ktorý prináša aj vyššiu komplexnosť. Overovanie diplomov, vízové procesy a súlad s predpismi nie sú úlohy, ktoré by ste mali riešiť sami. A tu vstupujeme do hry my – Recruitment-4u."
+        },
+        {
+          "type": "text",
+          "content": "Špecializujeme sa na prepájanie firiem s výkonnými profesionálmi z celého sveta. Či už hľadáte vývojárov, digitálnych špecialistov alebo zdravotnícky personál, máme potrebné siete aj odborné znalosti."
+        },
+        {
+          "type": "text",
+          "content": "S Recruitment-4u sa vyhnete bežným chybám pri medzinárodnom nábore, ušetríte čas, peniaze a interné zdroje – a zároveň získate prístup ku kvalifikovaným kandidátom na globálnej úrovni."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog1.jpg",
+          "alt": "Rozhovor náborového tímu"
+        },
+        {
+          "type": "text",
+          "content": "<strong>Ako Recruitment-4u nájde správnych medzinárodných kandidátov</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Používame viacstupňový prístup na identifikáciu a dodanie špičkových talentov. Prehľadávame globálne databázy, pracovné portály a využívame analýzy v reálnom čase na nájdenie odborníkov vhodných pre vašu kultúru a ciele."
+        },
+        {
+          "type": "text",
+          "content": "Pri kandidátoch mimo Európy overujeme diplomy, jazykové zručnosti, certifikáty a kultúrnu kompatibilitu. Náš výberový proces zaručuje, že každý kandidát je pripravený podávať výkon."
+        },
+        {
+          "type": "text",
+          "content": "Od pracovných veľtrhov, cez partnerstvá s univerzitami až po priame oslovovanie a testovanie schopností – ponúkame riešenia prispôsobené každej oblasti."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Prečo spolupracovať s globálnou agentúrou ako Recruitment-4u?</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Medzinárodný nábor nie je len o obsadení pozície – ide o zosúladenie hodnôt. My sa o to postaráme komplexne, rýchlo a efektívne."
+        },
+        {
+          "type": "text",
+          "content": "V dnešnom rýchlom trhu tí najlepší kandidáti aktívne nehľadajú prácu. Sú zaneprázdnení, úspešní a otvorení iba tým správnym príležitostiam. A práve tu prichádzame my."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Prečo nám dôverujú klienti z celej Európy:</strong>"
+        },
+        {
+          "type": "html",
+          "content": "<ul class='space-y-2 list-disc my-4'><p class='text-lg mb-10 text-primary leading-relaxed'>Prečo nám dôverujú klienti z celej Európy:</p><li><span class='mr-3'>✅</span><span class='font-black'>Prístup k anglicky hovoriacim odborníkom...</span></li><li><span class='mr-3'>✅</span><span class='font-black'>Kompletná podpora počas celého náborového procesu...</span></li><li><span class='mr-3'>✅</span><span class='font-black'>Znalosti medzinárodnej legislatívy...</span></li><li><span class='mr-3'>✅</span><span class='font-black'>Efektívny a nákladovo výhodný náborový proces</span></li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Či už hľadáte jedného zamestnanca alebo globálne rozširujete tím, ponúkame flexibilné a efektívne riešenia prispôsobené vašim potrebám."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Ako si vybrať správnu globálnu náborovú agentúru</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Nie všetky agentúry sú rovnaké. Pri výbere globálneho partnera zvážte:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class='space-y-2 list-decimal my-4'><li><strong>Overte si globálne pokrytie</strong> – Má agentúra prístup k talentom z kľúčových regiónov?</li><li><strong>Skontrolujte právne know-how</strong> – Pomôžu s vízami, výplatami a dodržiavaním predpisov?</li><li><strong>Komunikačná úroveň</strong> – Chápu vašu firemnú kultúru a hodnoty?</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "V Recruitment-4u spĺňame všetky tieto kritériá. Máme globálny dosah, analytický prístup a individuálnu starostlivosť."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Záver: Rozširujte sa globálne, prijímajte s istotou</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Nábor mimo Európy nemusí byť komplikovaný. S vhodným partnerom môžete získať talentovaných profesionálov, ktorí vašej firme prinesú skutočnú hodnotu."
+        },
+        {
+          "type": "text",
+          "content": "Recruitment-4u prepája firmy s globálnymi odborníkmi, ktorí sa hodia k vašej kultúre, hodnotám a cieľom – od IT až po zdravotníctvo a financie."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Ste pripravení rozšíriť svoj tím za hranice?</strong><br />Nechajte Recruitment-4u zjednodušiť proces. Kontaktujte nás ešte dnes a nájdite tých správnych ľudí rýchlejšie."
+        },
+        {
+          "type": "text",
+          "content": "Ešte váhate? Pozrite si naše prípadové štúdie alebo sa porozprávajte s našimi odborníkmi a zistite, prečo nás firmy z celej Európy považujú za spoľahlivého partnera."
+        }
+      ]
+    }
+  },
+  "blogtwo": {
+    "category": "Nábor",
+    "title": "Mali by ste sa spoliehať na agentúru, ktorá si účtuje vysoké sumy? Veci, ktoré treba zvážiť pred výberom náborového partnera na vybudovanie skvelého tímu v Európe",
+    "date": "2. mája 2025",
+    "blog": {
+      "paragraphs": [
+        {
+          "type": "text",
+          "content": "Globálny biznis je rozmanitý a dynamický - od finančných centier v Dubaji a Singapure po prosperujúce tech ekosystémy v Bengalure, São Paule a San Franciscu. Ale jedna výzva zostáva konštantná vo všetkých regiónoch: ako prilákať a najať správnych ľudí."
+        },
+        {
+          "access": "text",
+          "content": "Na čoraz konkurenčnejšom trhu práce sa mnohé spoločnosti obracajú na náborové agentúry, aby im pomohli vybudovať efektívne tímy pripravené na budúcnosť. Ale keď jedna agentúra ponúkne trojnásobnú cenu oproti inej, je prirodzené pýtať sa - oplatí sa to?"
+        },
+        {
+          "type": "text",
+          "content": "Rozoberme si, za čo by ste naozaj mali platiť a ako vyhodnotiť, či náborový partner stojí za investíciu."
+        },
+        {
+          "type": "text",
+          "content": "Prečo si niektoré agentúry v Európe účtujú viac?"
+        },
+        {
+          "type": "text",
+          "content": "Nábor dnes ide oveľa ďalej než len o priraďovanie životopisov k popisom pracovných miest. Špičkové agentúry teraz pôsobia ako strategickí partneri, ponúkajúce prispôsobené náborové stratégie, prístup k ťažko dosiahnuteľným talentom, usmernenie v medzinárodnej súladnosti a cenné postrehy o kultúrnej zhode."
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>Nábor viacjazyčných talentov</li><li>Výkonné vyhľadávanie s prísnou dôvernosťou</li><li>Podpora cez hranice (napr. súlad s GDPR, miestne predpisy o nábore)</li><li>Rady ohľadom značky zamestnávateľa a rámce pre onboarding</li><li>Benchmarking trhových platov a mapovanie talentov</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Obzvlášť pri nábore na vyššie alebo špecializované pozície v odvetviach ako financie, vedy o živote, technológie alebo energetika - agentúry, ktoré rozumejú európskemu trhu, môžu urobiť všetký rozdiel."
+        },
+        {
+          "type": "text",
+          "content": "Čo zvážiť pred partnerstvom s náborovou agentúrou"
+        },
+        {
+          "type": "html",
+          "content": "<ol class='list-decimal ml-6 space-y-2'><li>Rozumejú vášmu odvetviu a európskemu trhu práce?</li><li>Vedia pomôcť s náborom cez hranice?</li><li>Aká je ich stratégia hľadania kandidátov?</li><li>Sú transparentní ohľadom nákladov a termínov?</li><li>Konajú ako dodávateľ alebo ako partner?</li></ol>"
+        },
+        {
+          "type": "text",
+          "content": "Kedy je platenie viac vlastne nákladovo efektívne"
+        },
+        {
+          "type": "text",
+          "content": "Priznajme si, náborové chyby sú drahé. Zlý nábor môže stáť až trikrát viac ako ročný plat zamestnanca. Tento dopad je ešte väčší v regiónoch so silnou ochranou práce a dlhými náborovými cyklami, kde výmena nesprávneho kandidáta zaberá čas, zdroje a často aj právne postupy."
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>Rýchlosť a efektivita, znižujúce čas do náboru</li><li>Kvalitnejší kandidáti s lepšou mierou udržania</li><li>Trhové postrehy, ktoré pomáhajú vyhnúť sa náborovým chybám</li><li>Štruktúrované procesy, ktoré profesionálne reprezentujú vašu značku</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Na vysoko konkurenčných trhoch práce, kde firemná kultúra hrá veľkú úlohu, investícia do dôveryhodnej náborovej agentúry často vedie k lepším dlhodobým výsledkom."
+        },
+        {
+          "type": "text",
+          "content": "Ale cena nie je všetko..."
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>✅ Skontrolujte ich mieru úspešnosti umiestnenia</li><li>✅ Požiadajte o referencie klientov alebo prípadové štúdie</li><li>✅ Porozumejte ich kanálom hľadania kandidátov a overovaciemu procesu</li><li>✅ Vyjasnite si ich záruky - čo sa stane, ak nábor nevyjde?</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Vysoký poplatok nie vždy zaručuje kvalitu. Hľadajte agentúry, ktoré ponúkajú rovnováhu medzi odbornosťou, transparentnosťou a preukázateľnými výsledkami."
+        },
+        {
+          "type": "text",
+          "content": "Správna agentúra môže transformovať váš náborový proces"
+        },
+        {
+          "type": "text",
+          "content": "Niekedy môže byť najlepšou agentúrou pre vašu spoločnosť boutique firma so silnými regionálnymi spojeniami a osobným prístupom, nie nevyhnutne tá s najväčším menom alebo najvyšším poplatkom."
+        },
+        {
+          "type": "text",
+          "content": "Záverečná myšlienka: Nekupujte len službu - vyberte si strategického náborového partnera"
+        },
+        {
+          "type": "text",
+          "content": "Nábor v Európe vyžaduje miestne znalosti, kultúrne povedomie a právnu precíznosť. Či už náberáte jedného seniorného profesionála alebo budujete veľký tím, náborový partner, ktorého si vyberiete, hrá kľúčovú úlohu vo vašom úspechu."
+        },
+        {
+          "type": "text",
+          "content": "Dobrá agentúra vám ušetrí čas. Skvelá agentúra posilní váš biznis."
+        },
+        {
+          "type": "text",
+          "content": "Recruitment-4u – Inteligentný nábor pre inteligentné spoločnosti v celej Európe"
+        },
+        {
+          "type": "text",
+          "content": "V Recruitment-4u pomáhame spoločnostiam v Perzskom zálive, Ázii, Severnej a Južnej Amerike nájsť výnimočné talenty. Či už škálujete tech startup, najímate multijazyčných profesionálov alebo sa potýkate so súladom náboru cez hranice - sme tu pre vás."
+        },
+        {
+          "type": "html",
+          "content": "<ul class='list-disc ml-6 space-y-2'><li>Hlboké regionálne znalosti</li><li>Prispôsobené náborové stratégie</li><li>Transparentné ceny a rýchle dodanie</li><li>Zameranie na dlhodobé partnerstvá</li></ul>"
+        },
+        {
+          "type": "text",
+          "content": "Nechajte nám pomôcť vám nájsť ľudí, ktorí pohnú vašim biznisom vpred."
+        },
+        {
+          "type": "text",
+          "content": "Kontaktujte Recruitment-4u ešte dnes - pretože nábor v Európe nemusí byť ťažký, keď máte správneho partnera."
+        }
+      ]
+    }
+  },
+
+  "blogthree": {
+    "category": "Nábor",
+    "title": "Ktorú národnosť by ste mali preferovať, keď myslíte mimo Európy?",
+    "date": "2. júl 2023",
+    "blog": {
+      "paragraphs": [
+        {
+          "type": "text",
+          "content": "Keďže priemysel v celej Európe čelí čoraz väčšiemu nedostatku talentov, spoločnosti sa obracajú na medzinárodný nábor, aby tento deficit zaplnili. Či už ide o kvalifikované remeselníkov, zdravotníctvo, IT alebo inžinierstvo, nábor talentov zo zahraničia sa stal nevyhnutným. Ale veľké otázky zostávajú:"
+        },
+        {
+          "type": "text",
+          "content": "„Ako rýchlo môžeme dostať kvalifikovaných zahraničných pracovníkov do Európy?“<br />„Môže Recruitment-4u pomôcť urýchliť vízový proces?“<br />Poďme si to ujasniť."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Realita časových harmonogramov medzinárodného náboru</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Nábor mimo Európy zahŕňa viac než len odoslanie pracovnej ponuky. Od nájdenia kandidátov a prípravy dokumentov až po navigáciu v imigračných systémoch, celý proces zvyčajne trvá 8 až 16 týždňov v závislosti od viacerých faktorov:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Cieľová krajina a jej imigračné postupy</li>\n<li>Kategória víza alebo pracovného povolenia (napr. EU Blue Card, národné vízum pre kvalifikovaných pracovníkov)</li>\n<li>Dokumenty a kvalifikácie kandidátov</li>\n<li>Čas spracovania na ambasáde a pracovné zaťaženie vlády</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "Niektoré európske krajiny majú zjednodušené procesy pre príchod vysoko kvalifikovaných pracovníkov, čo uľahčuje získanie povolení a rýchlejší nástup do práce. Iné vyžadujú podrobnejšie právne kroky a dokumentáciu, ale s príslušnou prípravou a vedením môže proces napredovať hladko a efektívne."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Ako Recruitment-4u urýchľuje proces</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Hoci nekontrolujeme fronty na ambasádach ani národné imigračné rozhodnutia, Recruitment-4u zohráva kľúčovú úlohu v zabezpečení, aby všetko ostatné prebiehalo rýchlo, hladko a v súlade."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Takto vám pomôžeme dostať sa tam rýchlejšie:</strong>"
+        },
+        {
+          "type": "text",
+          "content": "<strong>1. Rýchly prístup k medzinárodným talentom</strong><br />Udržiavame siet predkvalifikovaných profesionálov v odvetviach s vysokým dopytom. To znamená, že môžete preskočiť dlhé hľadanie kandidátov a prejsť rovno na pohovory s talentmi pripravenými na presťahovanie."
+        },
+        {
+          "type": "text",
+          "content": "<strong>2. Dokumentácia pripravená na víza</strong><br />Väčšina vízových oneskorení sa deje kvôli drobným chybám v dokumentoch. Zabezpečíme, aby:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Všetky právne dokumenty boli presné a kompletn</li>\n<li>Platové štandardy a pracovné pozície spĺňali vízové požiadavky</li>\n<li>Žiadosti boli v súlade s imigračnými zákonmi cieľovej krajiny</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "<strong>3. Odbornosť špecifická pre krajinu</strong><br />Recruitment-4u rozumie miestnym predpisom v celej Európe. Či už náborujete v Perzskom zálive, Ázii, Severnej alebo Južnej Amerike alebo kdekoľvek inde v EÚ, pomôžeme vám:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Vybrať správne vízum</li>\n<li>Vyhnúť sa oneskoreniam v spracovaní</li>\n<li>Pochopiť národné a úrovňové štandardy EÚ</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "<strong>4. Komplexná podpora</strong><br />Od onboardingu kandidátov a poradenstva o presťahovaní až po koordináciu s imigračnými právnikmi, vás prevedieme celým procesom. Získate spoľahlivého partnera — nie len poskytovateľa životopisov."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Čo nekontrolujeme</strong><br />Aby bolo jasné: Recruitment-4u nemôže:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Urýchliť vládne rozhodnutia o vízach</li>\n<li>Ovplyvniť termíny na ambasádach</li>\n<li>Zmeniť bezpečnostné kontroly na hraniciach</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "Ale čo kontrolujeme, je všetko pred týmito krokmi — a tam spoločnosti strácajú najviac času. Naše skúsenosti vám pomôžu vyhnúť sa drahým chybám a pripraviť podklady, ktoré spĺňajú všetky miestne štandardy od začiatku."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Prečo rýchlosť pochádza z prípravy</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Rýchlejší nábor nie je o obchádzaní pravidiel. Je o tom, vedieť, čo je potrebné, kedy podať žiadosť a ako to urobiť správne na prvý pokus. Tam Recruitment-4u prináša skutočnú hodnotu. Pomáhame vám:"
+        },
+        {
+          "type": "html",
+          "content": "<ul class=\"list-disc ml-6 space-y-2\">\n<li>Nájsť správnych kandidátov</li>\n<li>Pripraviť správne dokumenty</li>\n<li>Dodržiavať správny právny proces</li>\n<li>Nastaviť správne očakávania</li>\n</ul>"
+        },
+        {
+          "type": "text",
+          "content": "S našou podporou môžete skrátiť čas náboru a obsadiť kľúčové pozície rýchlejšie — bez kompromisov v súlade alebo kvalite."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Priniesme vám správne talenty — rýchlo a spoľahlivo</strong>"
+        },
+        {
+          "type": "text",
+          "content": "Ak rozširujete svoju pracovnú silu o medzinárodných profesionálov, práca s Recruitment-4u vám poskytuje výhodu rýchlosti, štruktúry a pokoja."
+        },
+        {
+          "type": "text",
+          "content": "<strong>Ste pripravení náborať globálne?</strong><br />Poďme diskutovať o tom, čo je možné — a ako rýchlo to môžeme uskutočniť.<br />Objednajte si bezplatnú konzultáciu s odborníkom Recruitment-4u ešte dnes."
+        }
+      ]
+    }
+  },
+
+  "contactus": {
+    "text": "KONTAKT",
+    "title": "Recruitment4u je tu pre vás a vaše otázky — pre firmy aj uchádzačov o zamestnanie.",
+    "btnText": "Kancelárie",
+    "letscontact": "Spojme sa"
+  },
+  "footer": {
+    "title": "O Nás",
+    "desc": "Recruitment4u je registrovaná na činnosti spojené so sprostredkovaním zamestnania a dočasným zamestnávaním pracovníkov.",
+    "title2": "Naša Globálna Prítomnosť",
+    "location1": {
+      "title": "Rumunsko",
+      "desc": "Str. Sg. Constantin Moise 5 D, SEKTOR 6, BUKUREŠŤ"
+    },
+    "location2": {
+      "title": "SAE [Dubaj]",
+      "desc": "The One Tower, 24. poschodie, DUBAJ, SAE"
+    },
+    "location3": {
+      "title": "Katar",
+      "desc": "Global Business Center, Corniche Road, Dauha, Katar"
+    },
+    "location4": {
+      "title": "Ukrajina",
+      "desc": "Viking Business Center, Zelena ul. 151, Ľvov, Lvivská oblasť, Ukrajina, 79000"
+    },
+    "copyright": "Copyright © 2025 Recruitment4u. Všetky práva vyhradené."
+  }
+}

@@ -1,0 +1,21 @@
+"use client";
+import { useRouter } from "next/navigation";
+
+import SolutionHeader from "@/components/common/SolutionHeader";
+import { useTranslations } from "next-intl";
+export default function MedicalHeader() {
+  const router = useRouter();
+  const t = useTranslations("solutionmedical");
+  const handleButtonClick = (path: string) => {
+    router.push(path);
+  };
+  return (
+    <section className="py-12 container">
+      <SolutionHeader
+        title={t("title")}
+        description={t("description")}
+        onClick={() => handleButtonClick("/contact")}
+      />
+    </section>
+  );
+}
