@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 import { useEffect, useState, useRef } from "react";
-import { Menu, ChevronDown, Zap, Circle } from "lucide-react";
+import { Menu, ChevronDown, Zap } from "lucide-react";
 import {
   Sheet,
   SheetContent,
@@ -68,7 +68,6 @@ const Navbar = () => {
       setHasSeenCareerEffect(true);
     }
   }, []);
-
 
   useEffect(() => {
     if (!hasSeenCareerEffect) {
