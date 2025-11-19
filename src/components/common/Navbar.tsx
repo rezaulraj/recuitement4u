@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 import { useEffect, useState, useRef } from "react";
-import { Menu, ChevronDown, Zap } from "lucide-react";
+import { Menu, ChevronDown, Zap, Circle } from "lucide-react";
 import {
   Sheet,
   SheetContent,
@@ -38,6 +38,21 @@ const isPathActive = (pathname: string, href: string, locale: string) => {
   return cleanPathname.startsWith(cleanHref);
 };
 
+interface NavItem {
+  label: string;
+  href: string;
+  dropdown?: Array<{
+    label: string;
+    href: string;
+  }>;
+  hasEffect?: boolean;
+}
+
+interface NavItemProps {
+  item: NavItem;
+  isActive: boolean;
+}
+
 const Navbar = () => {
   const t = useTranslations("nav");
   const locale = useLocale();
@@ -53,6 +68,7 @@ const Navbar = () => {
       setHasSeenCareerEffect(true);
     }
   }, []);
+
 
   useEffect(() => {
     if (!hasSeenCareerEffect) {
@@ -124,7 +140,7 @@ const Navbar = () => {
     };
   }, []);
 
-  const navItems = [
+  const navItems: NavItem[] = [
     { label: t("home"), href: "/" },
     { label: t("forCompanies"), href: "/for-companies" },
     {
@@ -211,13 +227,7 @@ const Navbar = () => {
     </AnimatePresence>
   );
 
-  const CareerButtonWithEffect = ({
-    item,
-    isActive,
-  }: {
-    item: any;
-    isActive: boolean;
-  }) => (
+  const CareerButtonWithEffect = ({ item, isActive }: NavItemProps) => (
     <motion.div
       key={item.label}
       whileHover={{ scale: 1.05 }}
@@ -243,13 +253,7 @@ const Navbar = () => {
     </motion.div>
   );
 
-  const RegularNavItem = ({
-    item,
-    isActive,
-  }: {
-    item: any;
-    isActive: boolean;
-  }) => (
+  const RegularNavItem = ({ item, isActive }: NavItemProps) => (
     <motion.div
       key={item.label}
       whileHover={{ scale: 1.05 }}
@@ -281,6 +285,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20 relative">
+          {/* Logo */}
           <Link href="/" className="font-bold flex items-center">
             <div className="relative w-[100px] h-[40px] sm:w-[120px] sm:h-[40px] md:w-[180px] md:h-[80px] lg:w-[220px] lg:h-[100px]">
               <Image
